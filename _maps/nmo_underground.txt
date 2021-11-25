@@ -9,8 +9,8 @@
 	"7ea5a327211ea3e46410cddf480f4870"
 	{
 		"en"		"Look for a code in the office building and loot a can of paint!"
-		"pt"		"Procure um código no prédio comercial e pegue uma lata de tinta!"
-		"pt_p"		"Procure um código no prédio comercial e pegue uma lata de tinta!"
+		"pt"		"Procure um código nos escritórios e pegue uma lata de tinta!"
+		"pt_p"		"Procure um código nos escritórios e pegue uma lata de tinta!"
 	}
 	"d66631a6a45c3766389b81518dca2c63"
 	{
