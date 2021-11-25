@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"76e8654f7175a9875a9db8af75276700"
+	{
+		"en"		"Push the car out of the way, clear the path"
+		"pt"		"Empurre o carro para fora do caminho, limpe o caminho"
+		"pt_p"		"Empurre o carro para fora do caminho, limpe o caminho"
+	}
+	"5ebfb7e45b4bcbf82765f6dd4debf4e0"
+	{
+		"en"		"Find the outpost and override the lockdown"
+		"pt"		"Encontre o posto avançado e anule o bloqueio"
+		"pt_p"		"Encontre o posto avançado e anule o bloqueio"
+	}
+	"cb432f346eb8db35c7b6d7b5e89b9c40"
+	{
+		"en"		"Load up the van"
+		"pt"		"Carregue a van"
+		"pt_p"		"Carregue a van"
+	}
+	"88c3c880e5789ee4c645a26c649c0e06"
+	{
+		"en"		"Reconnect the power cable for the quarantine gate"
+		"pt"		"Reconecte o cabo de alimentação para o portão da quarentena"
+		"pt_p"		"Reconecte o cabo de alimentação para o portão da quarentena"
+	}
+	"cd6e2eded74087a7752543b1c40c21c6"
+	{
+		"en"		"Find the extinguisher and put out the street fire"
+		"pt"		"Encontre o extintor e apague o incêndio da rua"
+		"pt_p"		"Encontre o extintor e apague o incêndio da rua"
+	}
+	"de5253dd411e0f95c56eec942538a0c0"
+	{
+		"en"		"Push the cart"
+		"pt"		"Empurre o carrinho"
+		"pt_p"		"Push the cart"
+	}
+	"efdfc4095b503c0c24d995ed6ee8f369"
+	{
+		"en"		"Attach the hook so Mickey can pull down the fence"
+		"pt"		"Prenda o gancho para que Mickey possa puxar a cerca"
+		"pt_p"		"Prenda o gancho para que Mickey possa puxar a cerca"
+	}
+	"4777144085da8f80cfc21ebd1811eb16"
+	{
+		"en"		"Use the key to unlock the cell door"
+		"pt"		"Use a chave para destrancar a porta da cela"
+		"pt_p"		"Use a chave para destrancar a porta da cela"
+	}
+	"901c3b7a406756f7f27573016f0ee8a4"
+	{
+		"en"		"Disengage sally port lock"
+		"pt"		"Desengate o bloqueio da porta fortificada"
+		"pt_p"		"Desengate o bloqueio da porta fortificada"
+	}
+	"ad2c79e99a38c7b431946707a3098654"
+	{
+		"en"		"Locate the keycode for holding area gate"
+		"pt"		"Localize o código para o portão da área"
+		"pt_p"		"Localize o código para o portão da área"
+	}
+	"fc4bca1bf875f0f95b4decc374393912"
+	{
+		"en"		"Find the fuse and restore power to the elevator"
+		"pt"		"Encontre o fusível e restaure a energia para o elevador"
+		"pt_p"		"Encontre o fusível e restaure a energia para o elevador"
+	}
+	"7bf466c2bf79c04fcbe4cdfcbe42a0e9"
+	{
+		"en"		"Use the I.E.D to blow out the precinct window"
+		"pt"		"Use o I.E.D para estourar a janela da delegacia"
+		"pt_p"		"Use o I.E.D para estourar a janela da delegacia"
+	}
+	"ca49a4ca0a3b255d7b03901bc60d40c4"
+	{
+		"en"		"Find the welder to access garage door release"
+		"pt"		"Encontre o soldador para acessar a porta da garagem"
+		"pt_p"		"Encontre o soldador para acessar a porta da garagem"
+	}
+	"66629a93830276a162c61bd75956bc63"
+	{
+		"en"		"Break off the lock "
+		"pt"		"Quebre a fechadura "
+		"pt_p"		"Quebre a fechadura "
+	}
+	"b33247f2bfc8b359d81910e40fdcd40c"
+	{
+		"en"		"Break out of the apartment block"
+		"pt"		"Saia do bloco de apartamentos"
+		"pt_p"		"Saia do bloco de apartamentos"
+	}
+	"0009467bef4c1cfcf26fd647fb989b31"
+	{
+		"en"		"Loot the Food"
+		"pt"		"Leve a comida"
+		"pt_p"		"Leve a comida"
+	}
+	"abfa5e7b32071fa9c8d8813ca64dc3ea"
+	{
+		"en"		"Loot the water"
+		"pt"		"Leve a água"
+		"pt_p"		"Leve a água"
+	}
+	"5c829c0f282ce353d678a430eb516a08"
+	{
+		"en"		"Loot the fuel"
+		"pt"		"Leve o combustível"
+		"pt_p"		"Leve o combustível"
+	}
+	"896b26c328d33e70196e7267baa26d79"
+	{
+		"en"		"Push the cart to meet Mickey"
+		"pt"		"Empurre o carrinho para encontrar o Mickey"
+		"pt_p"		"Empurre o carrinho para encontrar o Mickey"
+	}
+	"0e90fe19de903aecc60553c94a819d3f"
+	{
+		"en"		"Find the padlock and help Mickey lock the door"
+		"pt"		"Encontre o cadeado e ajude o Mickey a trancar a porta"
+		"pt_p"		"Encontre o cadeado e ajude o Mickey a trancar a porta"
+	}
+}

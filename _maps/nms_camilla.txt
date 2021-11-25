@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"6d74e3ad76385689714950d37fb4205e"
+	{
+		"en"		"But we can send you supplies by the train. It will cross your town soon, be ready to pick up a crate."
+		"pt"		"Mas podemos enviar suprimentos pelo trem. Ele cruzará sua cidade em breve, esteja pronto para pegar uma caixa."
+		"pt_p"		"Mas podemos enviar suprimentos pelo trem. Ele cruzará sua cidade em breve, esteja pronto para pegar uma caixa."
+	}
+	"464a010868a564574e760b83c5bfb689"
+	{
+		"en"		"This is the U.S. Departament of homeland security, we can't pick you up just now"
+		"pt"		"Este é o Departamento de Segurança Interna dos Estados Unidos, não podemos buscá-los agora"
+		"pt_p"		"Este é o Departamento de Segurança Interna dos Estados Unidos, não podemos buscá-los agora"
+	}
+	"c4cde20641b0047d82ce54a1017f8bd2"
+	{
+		"en"		"Use radio in the kitchen!"
+		"pt"		"Use o rádio na cozinha!"
+		"pt_p"		"Use o rádio na cozinha!"
+	}
+}

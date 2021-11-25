@@ -1,0 +1,219 @@
+"Phrases"
+{
+	"2165087a17b628b7dfee54a3f58317b6"
+	{
+		"en"		"Use a ladder to sneak inside the quarantine"
+		"pt"		"Use uma escada para se esgueirar por dentro da quarentena"
+		"pt_p"		"Use uma escada para se esgueirar por dentro da quarentena"
+	}
+	"4eb3e1a72bba703665de0235778d4442"
+	{
+		"en"		"Use a welder to cut open the quarantine door"
+		"pt"		"Use um soldador para abrir a porta da quarentena"
+		"pt_p"		"Use um soldador para abrir a porta da quarentena"
+	}
+	"41823810d890bf51eebb6bf4d1b16b55"
+	{
+		"en"		"Keep the diesel pumping"
+		"pt"		"Mantenha o diesel bombeando"
+		"pt_p"		"Mantenha o diesel bombeando"
+	}
+	"491f174fb4cc23ee5421a3d890577ce8"
+	{
+		"en"		"Setup the diesel pump for the chopper"
+		"pt"		"Instale a bomba diesel para o helicóptero"
+		"pt_p"		"Instale a bomba diesel para o helicóptero"
+	}
+	"7f7263a7d9aff6f19dbe7b3e61bff24a"
+	{
+		"en"		"Radio an S.O.S"
+		"pt"		"Peça um S.O.S por Rádio"
+		"pt_p"		"Peça um S.O.S por Rádio"
+	}
+	"087109d915c5a7a318d094d837119855"
+	{
+		"en"		"Find the fuse for the surface generator"
+		"pt"		"Encontre o fusível para o gerador da superfície"
+		"pt_p"		"Encontre o fusível para o gerador da superfície"
+	}
+	"75c00a602eda6cca99eeca57dc9ca211"
+	{
+		"en"		"Break out of the decontamination area"
+		"pt"		"Saia da área de descontaminação"
+		"pt_p"		"Saia da área de descontaminação"
+	}
+	"3cbfa154512f7bff147e238d45ecf9e7"
+	{
+		"en"		"Use the captain’s key to access the armoury"
+		"pt"		"Use a chave do capitão para acessar o arsenal"
+		"pt_p"		"Use a chave do capitão para acessar o arsenal"
+	}
+	"0d8078da18185ac0c62b919c2dcd5c7b"
+	{
+		"en"		"Take the stashed vaccine"
+		"pt"		"Pegue a vacina escondida"
+		"pt_p"		"Pegue a vacina escondida"
+	}
+	"bb92e153bda076ce5ccca08f84adc4e9"
+	{
+		"en"		"Uncouple the load wagon"
+		"pt"		"Desacople o vagão de carga"
+		"pt_p"		"Desacople o vagão de carga"
+	}
+	"6cf3557a8bdd091b1972feff7e9a5a72"
+	{
+		"en"		"Arm sterilisation procedure"
+		"pt"		"Arme o procedimento de esterilização."
+		"pt_p"		"Arme o procedimento de esterilização."
+	}
+	"7d42b1c11d70aa1ed405b5a6a507c164"
+	{
+		"en"		"Secure the vaccine onto the supply drop"
+		"pt"		"Assegure a vacina no ponto de entrega"
+		"pt_p"		"Assegure a vacina no ponto de entrega"
+	}
+	"eecabff3d5cace6de1fa568c45de787d"
+	{
+		"en"		"Secure the vaccine in case"
+		"pt"		"Proteja a vacina na maleta"
+		"pt_p"		"Proteja a vacina na maleta"
+	}
+	"10a43ddd59f100a5bdace9b2e9c15f30"
+	{
+		"en"		"Use the key to open surface gate"
+		"pt"		"Use a chave para abrir o portão da superfície"
+		"pt_p"		"Use a chave para abrir o portão da superfície"
+	}
+	"57d92990287b8fe3c8a292ebda7c9b68"
+	{
+		"en"		"Weld off the ladders latch"
+		"pt"		"Desolde a trava da escada"
+		"pt_p"		"Desolde a trava da escada"
+	}
+	"cf2970da9a929a7dc8cc0f9e25b11752"
+	{
+		"en"		"Use blasting caps to clear rock slide"
+		"pt"		"Use detonadores para limpar o deslizamento de rochas"
+		"pt_p"		"Use detonadores para limpar o deslizamento de rochas"
+	}
+	"86f7f8bf4b512dcca9762fb6515cb139"
+	{
+		"en"		"Use the blasting caps to blow the rock"
+		"pt"		"Use os detonadores para explodir as rochas"
+		"pt_p"		"Use os detonadores para explodir as rochas"
+	}
+	"51b803c9b907aa99e4d76abc11ef542e"
+	{
+		"en"		"Use crank to open specimen gate"
+		"pt"		"Use a manivela para abrir o portão das amostras"
+		"pt_p"		"Use a manivela para abrir o portão das amostras"
+	}
+	"e916582f96d1773556af9b485e6e2597"
+	{
+		"en"		"Cut the power to the electrified puddle"
+		"pt"		"Corte a energia da poça eletrificada"
+		"pt_p"		"Corte a energia da poça eletrificada"
+	}
+	"58781bfda011b4ff216723ecababadf0"
+	{
+		"en"		"Radio for rescue"
+		"pt"		"Peça pelo resgate no Rádio"
+		"pt_p"		"Peça pelo resgate no Rádio"
+	}
+	"6a9ba8d3d2c224552a1ef023b8c92767"
+	{
+		"en"		"Find an explosive to open the quarantine door"
+		"pt"		"Encontre um explosivo para abrir a porta da quarentena"
+		"pt_p"		"Encontre um explosivo para abrir a porta da quarentena"
+	}
+	"d47a8f00a970b089d088ac06969d5cf2"
+	{
+		"en"		"Escape the complex before sterilisation"
+		"pt"		"Escape do complexo antes da esterilização"
+		"pt_p"		"Escape do complexo antes da esterilização"
+	}
+	"6df5d1371f06444b72f5ff87531d46f1"
+	{
+		"en"		"Prime napalm canisters "
+		"pt"		"Instale os recipientes de Napalm "
+		"pt_p"		"Instale os recipientes de Napalm "
+	}
+	"79d62cb27d9675bf5406b8054b9983ee"
+	{
+		"en"		"Recover the retroviral vaccine"
+		"pt"		"Recupere a vacina retroviral"
+		"pt_p"		"Recupere a vacina retroviral"
+	}
+	"ad4ebb86476c6420ae033484465b8940"
+	{
+		"en"		"Play bob the master’s voice to open the high security freezer"
+		"pt"		"Toque a voz do bob the master’s para abrir o freezer de alta segurança"
+		"pt_p"		"Toque a voz do bob the master’s para abrir o freezer de alta segurança"
+	}
+	"601b993dfcf6ad6192f909400e64d717"
+	{
+		"en"		"Use the radio to send an SOS"
+		"pt"		"Use o rádio para enviar um SOS"
+		"pt_p"		"Use o rádio para enviar um SOS"
+	}
+	"a75f031ce37cf8ea4dbbce8e0639e0f9"
+	{
+		"en"		"Reactivate the radio relay"
+		"pt"		"Reative o relé de rádio"
+		"pt_p"		"Reative o relé de rádio"
+	}
+	"fc6620c3c8a72abf2133fea141bcdfff"
+	{
+		"en"		"Use Menglers code to open the high security freezer"
+		"pt"		"Use o código de Menglers para abrir o freezer de alta segurança"
+		"pt_p"		"Use o código de Menglers para abrir o freezer de alta segurança"
+	}
+	"c65221a9f974f1b5dc481b8aec9ccd3f"
+	{
+		"en"		"Use the I.Dcard  to disengage viral lockdown "
+		"pt"		"Use o cartão I.D  para desativar o bloqueio viral "
+		"pt_p"		"Use o cartão I.D  para desativar o bloqueio viral "
+	}
+	"0d2d87df31e70d2fe54ccdf70879201b"
+	{
+		"en"		"Fix the fuse box to open emergency door"
+		"pt"		"Conserte a caixa de fusíveis para abrir a porta de emergência"
+		"pt_p"		"Conserte a caixa de fusíveis para abrir a porta de emergência"
+	}
+	"a1a857670cbe85dd01d4ca3ac6c30099"
+	{
+		"en"		"Sterilisation countdown initiated!"
+		"pt"		"Iniciada a contagem regressiva da esterilização!"
+		"pt_p"		"Iniciada a contagem regressiva da esterilização!"
+	}
+	"97830abfcf40408e632bb6e97bbc7346"
+	{
+		"en"		"5 seconds until sterilisation."
+		"pt"		"5 segundos até a esterilização."
+		"pt_p"		"5 segundos até a esterilização."
+	}
+	"c9a5a16f5eff6fb532c075389bd70c71"
+	{
+		"en"		"Initiating sterilisation."
+		"pt"		"Iniciando a esterilização."
+		"pt_p"		"Iniciando a esterilização."
+	}
+	"e833ba3ff4c23d31e5415f808cf68af7"
+	{
+		"en"		"10 seconds until sterilisation."
+		"pt"		"10 segundos até a esterilização."
+		"pt_p"		"10 segundos até a esterilização."
+	}
+	"87adbf0e3970e294bc1ae5cee1a2e70d"
+	{
+		"en"		"20 seconds until sterilisation."
+		"pt"		"20 segundos até a esterilização."
+		"pt_p"		"20 segundos até a esterilização."
+	}
+	"e5a301e9e81b43450da127c1997e6965"
+	{
+		"en"		"30 seconds until sterilisation."
+		"pt"		"30 segundos até a esterilização."
+		"pt_p"		"30 segundos até a esterilização."
+	}
+}

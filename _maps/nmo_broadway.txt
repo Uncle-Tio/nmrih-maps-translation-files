@@ -1,0 +1,69 @@
+"Phrases"
+{
+	"12e1e2035ad62cee2f9bc9b58e7a2b95"
+	{
+		"en"		"Weld open motel side entrance"
+		"pt"		"Desolde a entrada lateral do motel"
+		"pt_p"		"Desolde a entrada lateral do motel"
+	}
+	"bb5ff1cf9dba0cc7418cf905de5143b5"
+	{
+		"en"		"Take propane to cafe"
+		"pt"		"Leve o propano para a cafeteria"
+		"pt_p"		"Leve o propano para a cafeteria"
+	}
+	"d27cbcf43b34e81740c1b22439c849e3"
+	{
+		"en"		"Gain entry to managers office and call for extraction"
+		"pt"		"Ganhe acesso ao escritório do gerente e peça a extração"
+		"pt_p"		"Ganhe acesso ao escritório do gerente e peça a extração"
+	}
+	"61c2509f9834a3c334c9338e471f4341"
+	{
+		"en"		"Find lever for warehouse door"
+		"pt"		"Encontre a alavanca para a porta do armazém"
+		"pt_p"		"Encontre a alavanca para a porta do armazém"
+	}
+	"9e21326743fe0b7e96b06b6f03e0013e"
+	{
+		"en"		"Turn sprinklers ON"
+		"pt"		"Ligue o Extintor de Incêndios"
+		"pt_p"		"Ligue o Extintor de Incêndios"
+	}
+	"84c6da2f71e794bee4cb7d908f3da268"
+	{
+		"en"		"Proceed to the bar, Find the key"
+		"pt"		"Prossiga para o bar, Encontre a chave"
+		"pt_p"		"Prossiga para o bar, Encontre a chave"
+	}
+	"19eff83a585af4d2b56fea30ff88d354"
+	{
+		"en"		"Find battery, power up truck"
+		"pt"		"Encontre bateria e ligue o caminhão"
+		"pt_p"		"Encontre bateria e ligue o caminhão"
+	}
+	"8530cc5b0ad20b108e61bebef0cee486"
+	{
+		"en"		"Find the key to the cinema backdoor"
+		"pt"		"Encontre a chave para a porta dos fundos do cinema"
+		"pt_p"		"Encontre a chave para a porta dos fundos do cinema"
+	}
+	"d75afb3312fd8c3fa1214c0a621383c3"
+	{
+		"en"		"Find a way to the basement"
+		"pt"		"Encontre um caminho para o porão"
+		"pt_p"		"Encontre um caminho para o porão"
+	}
+	"e7e4ecf56aac8f61ce1f0769cccf6fdd"
+	{
+		"en"		"Break through motel side door, Find something suitable to do so"
+		"pt"		"Quebre a porta lateral do motel, Encontre algo adequado para fazer isso"
+		"pt_p"		"Quebre a porta lateral do motel, Encontre algo adequado para fazer isso"
+	}
+	"115ebf9e09093c85d2b179024cd198b2"
+	{
+		"en"		"Break gate lock"
+		"pt"		"Quebre a fechadura do portão"
+		"pt_p"		"Quebre a fechadura do portão"
+	}
+}

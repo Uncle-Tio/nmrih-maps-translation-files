@@ -1,0 +1,75 @@
+"Phrases"
+{
+	"642bc66d960a8175eadd572bc14bff17"
+	{
+		"en"		"Find welder to get back alley gate open."
+		"pt"		"Encontre o soldador para abrir o portão do beco."
+		"pt_p"		"Encontre o soldador para abrir o portão do beco."
+	}
+	"335cba8d6ce162831eea6cab29889852"
+	{
+		"en"		"Find some pliers to cut the lock, you have 3 minutes to get extracted!"
+		"pt"		"Encontre um alicate para cortar a fechadura, você tem 3 minutos para ser extraido!"
+		"pt_p"		"Encontre um alicate para cortar a fechadura, você tem 3 minutos para ser extraido!"
+	}
+	"a441a52adb6411977c41f4acde1998b6"
+	{
+		"en"		"Get to the next alley."
+		"pt"		"Vá para o próximo beco."
+		"pt_p"		"Vá para o próximo beco."
+	}
+	"eaeed8131f6e119b46276d099dbc9eba"
+	{
+		"en"		"Go through the house and break through the front."
+		"pt"		"Passe pela casa e avance pela frente."
+		"pt_p"		"Passe pela casa e avance pela frente."
+	}
+	"5f4565626afe93865dda3aaf2ce549ef"
+	{
+		"en"		"Blast through alley wall."
+		"pt"		"Exploda a parede do beco."
+		"pt_p"		"Exploda a parede do beco."
+	}
+	"55b0fb10856ef300cdd32619694e5304"
+	{
+		"en"		"Find a ladder to get over the alley gate."
+		"pt"		"Encontre uma escada para passar pelo portão do beco."
+		"pt_p"		"Encontre uma escada para passar pelo portão do beco."
+	}
+	"12f2f1c5d8e0d14559dae2aaaeb08c1d"
+	{
+		"en"		"Use welder to break into the store."
+		"pt"		"Use o soldador para entrar na loja."
+		"pt_p"		"Use o soldador para entrar na loja."
+	}
+	"a6dfde956c4de9cccdfe2e0cd00ceb54"
+	{
+		"en"		"Use ladder to get into Samco store."
+		"pt"		"Use a escada para entrar na loja Samco."
+		"pt_p"		"Use a escada para entrar na loja Samco."
+	}
+	"048ce9ef82e833f22db04c7882afba38"
+	{
+		"en"		"Find lever to turn power off."
+		"pt"		"Encontre a alavanca para desligar a energia."
+		"pt_p"		"Encontre a alavanca para desligar a energia."
+	}
+	"b0f314e9566d02f8c8bfe650645d1201"
+	{
+		"en"		"Find 4 boards to get across the electrified water."
+		"pt"		"Encontre 4 tábuas para atravessar a água eletrificada."
+		"pt_p"		"Encontre 4 tábuas para atravessar a água eletrificada."
+	}
+	"790d6972d1009694d43544a7bcbf0d34"
+	{
+		"en"		"Follow the whiteboard objective."
+		"pt"		"Siga o objetivo do quadro branco."
+		"pt_p"		"Siga o objetivo do quadro branco."
+	}
+	"06e7ffd6d56b3ec0d74548cc077789b7"
+	{
+		"en"		"Find some tnt to get through the alley gate."
+		"pt"		"Encontre alguma TNT para passar pelo portão do beco."
+		"pt_p"		"Encontre alguma TNT para passar pelo portão do beco."
+	}
+}

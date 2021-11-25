@@ -1,0 +1,57 @@
+"Phrases"
+{
+	"7edc88f1f2c881d39c2bb0b4205070cd"
+	{
+		"en"		"Find keys to the recreational vehicle."
+		"pt"		"Encontre as chaves do veículo recreativo."
+		"pt_p"		"Encontre as chaves do veículo recreativo."
+	}
+	"1cd18ac0632cae7b0cda0cf34208a767"
+	{
+		"en"		"Unlock the hospital doors."
+		"pt"		"Destranque as portas do hospital."
+		"pt_p"		"Destranque as portas do hospital."
+	}
+	"90abe13b6cd654922ee67f479e28dc47"
+	{
+		"en"		"Torch through the parking garage."
+		"pt"		"Use o Maçarico na garagem do estacionamento."
+		"pt_p"		"Use o Maçarico na garagem do estacionamento."
+	}
+	"e87a563d782f9eee7b47e547f4e08f2e"
+	{
+		"en"		"Climb the fence with a ladder."
+		"pt"		"Escale a cerca com uma escada."
+		"pt_p"		"Escale a cerca com uma escada."
+	}
+	"a75313d53b8f4770b7a58ff858744d27"
+	{
+		"en"		"Exit the subway station."
+		"pt"		"Saia da estação de metrô."
+		"pt_p"		"Saia da estação de metrô."
+	}
+	"720343033a3acd61a84a58f5819158fb"
+	{
+		"en"		"Raise the gate."
+		"pt"		"Levante o portão."
+		"pt_p"		"Levante o portão."
+	}
+	"d7fd7db055844254fd5a880e7e66e8e9"
+	{
+		"en"		"Break down the barricade."
+		"pt"		"Derrube a barricada."
+		"pt_p"		"Derrube a barricada."
+	}
+	"65ab04a22d63b60142ffbf47b4129567"
+	{
+		"en"		"Extinguish the fire."
+		"pt"		"Apague o fogo."
+		"pt_p"		"Apague o fogo."
+	}
+	"cef90809917b79006c00f8c9cec823d8"
+	{
+		"en"		"Cut through the shutter."
+		"pt"		"Corte pela persiana."
+		"pt_p"		"Corte pela persiana."
+	}
+}

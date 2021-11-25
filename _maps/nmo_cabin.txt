@@ -1,0 +1,69 @@
+"Phrases"
+{
+	"9164658aaca23b38da41e634b4c8231d"
+	{
+		"en"		"Proceed through the underground."
+		"pt"		"Prossiga pelo subterrâneo."
+		"pt_p"		"Prossiga pelo subterrâneo."
+	}
+	"856fe2129ca1ee31a9afaa381cc1e039"
+	{
+		"en"		"Find the car battery, power up the generator and call for help!"
+		"pt"		"Encontre a bateria de carro, ligue o gerador e peça ajuda!"
+		"pt_p"		"Encontre a bateria de carro, ligue o gerador e peça ajuda!"
+	}
+	"2becc85a0570d883add223e42bafc0e9"
+	{
+		"en"		"Reconnect the telegraph line."
+		"pt"		"Reconecte a linha telegráfica."
+		"pt_p"		"Reconecte a linha telegráfica."
+	}
+	"1a6fed3153fedc9d2cde889237ede069"
+	{
+		"en"		"Weld through the kitchen door."
+		"pt"		"Desolde a porta da cozinha."
+		"pt_p"		"Desolde a porta da cozinha."
+	}
+	"77ccdbe326e764b8f0b1891abe60b9e9"
+	{
+		"en"		"Enter the book into the shelf."
+		"pt"		"Insira o livro na estante."
+		"pt_p"		"Insira o livro na estante."
+	}
+	"1823b80b619be0043750ae3477a1e25c"
+	{
+		"en"		"Blast through cabin wall."
+		"pt"		"Exploda a parede da cabana."
+		"pt_p"		"Exploda a parede da cabana."
+	}
+	"72fc700fbcc1e25db19ed308a405d6c6"
+	{
+		"en"		"Release stair gate."
+		"pt"		"Libere o portão da escada."
+		"pt_p"		"Libere o portão da escada."
+	}
+	"5c5e7cb34f703447af925ae211c1e0fa"
+	{
+		"en"		"Family is the answer, find the secret book."
+		"pt"		"Family é a resposta, encontre o livro secreto."
+		"pt_p"		"Family é a resposta, encontre o livro secreto."
+	}
+	"7df9626347dd3af11703457e6fa29031"
+	{
+		"en"		"Break planks to proceed."
+		"pt"		"Quebre as tábuas para prosseguir."
+		"pt_p"		"Quebre as tábuas para prosseguir."
+	}
+	"dc1d2ed897954681df169fc2c4459f4e"
+	{
+		"en"		"Find keys to unlock door."
+		"pt"		"Encontre as chaves para destrancar a porta."
+		"pt_p"		"Encontre as chaves para destrancar a porta."
+	}
+	"cc1ef8ac76c5b618dacf2b1d99518b2b"
+	{
+		"en"		"Break out of the attic."
+		"pt"		"Saia do sótão."
+		"pt_p"		"Saia do sótão."
+	}
+}

@@ -1,0 +1,171 @@
+"Phrases"
+{
+	"8a221538da7ee3bf1a03356c90d0d2b1"
+	{
+		"en"		"Get back to the basketball court for extraction"
+		"pt"		"Volte para a quadra de basquete para a extração"
+		"pt_p"		"Volte para a quadra de basquete para a extração"
+	}
+	"de375e05fa3bec5469e503fb5afc355e"
+	{
+		"en"		"Go down the fire escape to extract via the train"
+		"pt"		"Desça a escada de incêndio para extrair pelo trem"
+		"pt_p"		"Desça a escada de incêndio para extrair pelo trem"
+	}
+	"835c8409ef330739d25f12eaa3a4009f"
+	{
+		"en"		"Weld gate and get to the roof top for extraction"
+		"pt"		"Desolde o portão e chegue ao topo do telhado para extração"
+		"pt_p"		"Desolde o portão e chegue ao topo do telhado para extração"
+	}
+	"0db44deec936c7559d640c08b3a8eefe"
+	{
+		"en"		"Use Tank to blast into store."
+		"pt"		"Use o tanque para entrar na loja."
+		"pt_p"		"Use o tanque para entrar na loja."
+	}
+	"69a633d3e0fc24cd2496130228a24f84"
+	{
+		"en"		"Go to basketball court"
+		"pt"		"Vá para a quadra de basquete"
+		"pt_p"		"Vá para a quadra de basquete"
+	}
+	"0439a7781c0f3739f01575a271757923"
+	{
+		"en"		"Navigate the sewers"
+		"pt"		"Navegue pelos esgotos"
+		"pt_p"		"Navegue pelos esgotos"
+	}
+	"40f95bb950a4de6e545637f6e18249ee"
+	{
+		"en"		"Go down hole to the sewers"
+		"pt"		"Desça o buraco até os esgotos"
+		"pt_p"		"Desça o buraco até os esgotos"
+	}
+	"c8afbd027ad86683cb29a6b8e2cab297"
+	{
+		"en"		"Make your way back to the streets"
+		"pt"		"Faça seu caminho de volta para as ruas"
+		"pt_p"		"Faça seu caminho de volta para as ruas"
+	}
+	"e91d4aa0c413f23d6b208adc24c20e7b"
+	{
+		"en"		"Find Radio to call for help"
+		"pt"		"Encontre o Rádio para pedir ajuda"
+		"pt_p"		"Encontre o Rádio para pedir ajuda"
+	}
+	"d86186bcd5c3695f593e3a8a467421b4"
+	{
+		"en"		"Take a gascan to store rear entrance"
+		"pt"		"Leve a Gasolina para a entrada traseira da loja"
+		"pt_p"		"Leve a Gasolina para a entrada traseira da loja"
+	}
+	"0cd8dcedf137dd3e5eaac75c36ac2a62"
+	{
+		"en"		"Weld open alley gate"
+		"pt"		"Desolde o portão de beco"
+		"pt_p"		"Desolde o portão de beco"
+	}
+	"87f9bb53184957b98f56020bcab1ddf4"
+	{
+		"en"		"Find battery for the FastEx van in the garage"
+		"pt"		"Encontre a bateria para a van FastEx na garagem"
+		"pt_p"		"Encontre a bateria para a van FastEx na garagem"
+	}
+	"02ecfaf2a6236b82b27e345d612485d9"
+	{
+		"en"		"Survive for 2 minutes"
+		"pt"		"Sobreviva por 2 minutos"
+		"pt_p"		"Sobreviva por 2 minutos"
+	}
+	"cf2965123621d449c1970fab487ca870"
+	{
+		"en"		"Go to the basketball court through hole in fence"
+		"pt"		"Vá para a quadra de basquete pelo buraco na cerca"
+		"pt_p"		"Vá para a quadra de basquete pelo buraco na cerca"
+	}
+	"c2fb16b8a55f07f3e935b72a55de302d"
+	{
+		"en"		"Exit the cinema to the alleyway"
+		"pt"		"Saia do cinema para o beco"
+		"pt_p"		"Saia do cinema para o beco"
+	}
+	"1a523dc70e231a4dc63a678ce9e8a960"
+	{
+		"en"		"Go down hole to progress"
+		"pt"		"Desça o buraco para progredir"
+		"pt_p"		"Desça o buraco para progredir"
+	}
+	"ae200261394cbd7b2a48fbd8a643f81b"
+	{
+		"en"		"Find lever and go to the boiler room"
+		"pt"		"Encontre a alavanca e vá para a sala da caldeira"
+		"pt_p"		"Encontre a alavanca e vá para a sala da caldeira"
+	}
+	"74e619a3f6b45d2ec6c554b0de0285e7"
+	{
+		"en"		"Find a ladder, use it to climb through ceiling hole"
+		"pt"		"Encontre uma escada, use-a para escalar pelo buraco do teto"
+		"pt_p"		"Encontre uma escada, use-a para escalar pelo buraco do teto"
+	}
+	"876e408a2f7f28a2ad12f03ce1872bea"
+	{
+		"en"		"Go through basement door"
+		"pt"		"Passe pela porta do porão"
+		"pt_p"		"Passe pela porta do porão"
+	}
+	"a675189f6231eaa3c784ad4b60bfd654"
+	{
+		"en"		"Climb through vents"
+		"pt"		"Escale através da abertura"
+		"pt_p"		"Escale através da abertura"
+	}
+	"82af6ec6834604dd635186a6ad9f919e"
+	{
+		"en"		"Carry on through hotel"
+		"pt"		"Continue pelo hotel"
+		"pt_p"		"Continue pelo hotel"
+	}
+	"0570d3303e899b8211e6b959c2a89815"
+	{
+		"en"		"Use welder on stairs gate"
+		"pt"		"Use soldador no portão da escada"
+		"pt_p"		"Use soldador no portão da escada"
+	}
+	"557eb2f1f9c39bba0fc6890232f8e3f9"
+	{
+		"en"		"Climb through toilet vents"
+		"pt"		"Escale pela ventilação do banheiro"
+		"pt_p"		"Escale pela ventilação do banheiro"
+	}
+	"813c3a301707813134153fc1c28b7bea"
+	{
+		"en"		"Find keys to open theater doors"
+		"pt"		"Encontre as chaves para abrir as portas do teatro"
+		"pt_p"		"Encontre as chaves para abrir as portas do teatro"
+	}
+	"d96bee177648b74b26fc5c2eb6ef8dae"
+	{
+		"en"		"Go to the Hotel"
+		"pt"		"Vá para o Hotel"
+		"pt_p"		"Vá para o Hotel"
+	}
+	"acd0e17cdf6eecbb0d25aff32ab0d400"
+	{
+		"en"		"Gain entry to the cinema"
+		"pt"		"Ganhe acesso ao cinema"
+		"pt_p"		"Ganhe acesso ao cinema"
+	}
+	"303d0e8ea4b987e42aa2169811aaa1f4"
+	{
+		"en"		"Break boards to get in cinema side entrance"
+		"pt"		"Quebre as tábuas para entrar na entrada lateral do cinema"
+		"pt_p"		"Quebre as tábuas para entrar na entrada lateral do cinema"
+	}
+	"48d6c7052b57421a7184742bcd146ef9"
+	{
+		"en"		"Find welder to exit the apartments"
+		"pt"		"Encontre o soldador para sair dos apartamentos"
+		"pt_p"		"Encontre o soldador para sair dos apartamentos"
+	}
+}

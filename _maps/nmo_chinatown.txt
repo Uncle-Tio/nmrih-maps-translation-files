@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"6c35c5361db236363ae686101690d361"
+	{
+		"en"		"Power up the radio and call for rescue!"
+		"pt"		"Ligue o rádio e chame o resgate!"
+		"pt_p"		"Ligue o rádio e chame o resgate!"
+	}
+	"99f82b126891922a03a06d051aa7ee15"
+	{
+		"en"		"Use welder on the gate's lock to open it!"
+		"pt"		"Use o soldador na fechadura do portão para abri-lo!"
+		"pt_p"		"Use o soldador na fechadura do portão para abri-lo!"
+	}
+	"8e872efef7941fc409f3a1582a9cb81e"
+	{
+		"en"		"Find your way through the sewers!"
+		"pt"		"Encontre o caminho através dos esgotos!"
+		"pt_p"		"Encontre o caminho através dos esgotos!"
+	}
+	"ba0d175adbd0a4f5309e9f80fafb8e20"
+	{
+		"en"		"Release the ladder on the roadblock!"
+		"pt"		"Solte a escada no bloqueio!"
+		"pt_p"		"Solte a escada no bloqueio!"
+	}
+	"5664d06e2dc13af792abc520dbe3f9af"
+	{
+		"en"		"Find fuel for generator to open the gate!"
+		"pt"		"Encontre combustível para o gerador abrir o portão!"
+		"pt_p"		"Encontre combustível para o gerador abrir o portão!"
+	}
+	"e893fe07ad8d167573913900e4714e92"
+	{
+		"en"		"Escape the subway!"
+		"pt"		"Fuja do metrô!"
+		"pt_p"		"Fuja do metrô!"
+	}
+}

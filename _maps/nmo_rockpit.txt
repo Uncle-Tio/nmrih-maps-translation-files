@@ -1,0 +1,111 @@
+"Phrases"
+{
+	"e05a0db61d5319cd34215a8e2e443d8b"
+	{
+		"en"		"Activate a siren to signal your position"
+		"pt"		"Ative uma sirene para sinalizar sua posição"
+		"pt_p"		"Ative uma sirene para sinalizar sua posição"
+	}
+	"d4c8626d662df6c81ba1b19be52a00ac"
+	{
+		"en"		"Make your way towards the gate"
+		"pt"		"Abra o seu caminho para o portão"
+		"pt_p"		"Abra o seu caminho para o portão"
+	}
+	"803b224f99e32deea109ece1a43e0ea9"
+	{
+		"en"		"Restore power to the elevator"
+		"pt"		"Restaure o poder para o elevador"
+		"pt_p"		"Restaure o poder para o elevador"
+	}
+	"e0d9a1a63a97ffd36801a82bc30e5eb2"
+	{
+		"en"		"Find an alternative way into the maintenance tunnels"
+		"pt"		"Encontre um caminho alternativo para os túneis de manutenção"
+		"pt_p"		"Encontre um caminho alternativo para os túneis de manutenção"
+	}
+	"e82eeecae4002b48dff425380f86b8f7"
+	{
+		"en"		"Use a gas can to destroy the barricade"
+		"pt"		"Use gasolina para destruir a barricada"
+		"pt_p"		"Use gasolina para destruir a barricada"
+	}
+	"bd53b6d2cb29840a560ac8ef4f661a68"
+	{
+		"en"		"Find 3 planks to bridge the electrified puddle"
+		"pt"		"Ache 3 tábuas para fazer uma ponte sobre a poça eletrificada"
+		"pt_p"		"Ache 3 tábuas para fazer uma ponte sobre a poça eletrificada"
+	}
+	"d73426641b319bfc83584b9363c9de93"
+	{
+		"en"		"Find an extinguisher and put out the fire"
+		"pt"		"Encontre um extintor e apague o fogo"
+		"pt_p"		"Encontre um extintor e apague o fogo"
+	}
+	"6cf86234c4fc5845850249b6580771a1"
+	{
+		"en"		"Use battery to open the entrance gate, get ready for an escape"
+		"pt"		"Use uma bateria para abrir o portão de entrada, prepare-se para escapar"
+		"pt_p"		"Use uma bateria para abrir o portão de entrada, prepare-se para escapar"
+	}
+	"7a4306b0d1ec846b9507b3fbdae642ea"
+	{
+		"en"		"Call for help, use the radio upstairs"
+		"pt"		"Peça ajuda, use o rádio no andar de cima"
+		"pt_p"		"Peça ajuda, use o rádio no andar de cima"
+	}
+	"a17e348b537a2c1497130c5a3b44dfed"
+	{
+		"en"		"Escape to the surface!"
+		"pt"		"Escape para a superfície!"
+		"pt_p"		"Escape para a superfície!"
+	}
+	"2a6887e64158c0cecd50f6527da6f6de"
+	{
+		"en"		"Use the panel in the control room, open the gate B"
+		"pt"		"Use o painel na sala de controle, abra o portão B"
+		"pt_p"		"Use o painel na sala de controle, abra o portão B"
+	}
+	"e7c65abf4b9bc126bad427203d4c27f8"
+	{
+		"en"		"Weld open the gate"
+		"pt"		"Abra o portão com o soldador"
+		"pt_p"		"Abra o portão com o soldador"
+	}
+	"8fdc8da81581cc62310abf5e1ff071df"
+	{
+		"en"		"Get extracted by the helicopter!"
+		"pt"		"Seja extraído pelo helicóptero!"
+		"pt_p"		"Seja extraído pelo helicóptero!"
+	}
+	"1ee0ec88476d4846fd8046c09dc6ccce"
+	{
+		"en"		"Survive!"
+		"pt"		"Sobreviva!"
+		"pt_p"		"Sobreviva!"
+	}
+	"4186facb0a2c826b6e8be11ec2ee1af7"
+	{
+		"en"		"Get into the FastEx van and escape!"
+		"pt"		"Entre na van FastEx e fuja!"
+		"pt_p"		"Entre na van FastEx e fuja!"
+	}
+	"15da87c6a2736043bdb083fc096840a9"
+	{
+		"en"		"Find a key to enter the shed"
+		"pt"		"Ache uma chave para entrar no galpão"
+		"pt_p"		"Ache uma chave para entrar no galpão"
+	}
+	"2d51dc3dd64e4c674892c4813eb04009"
+	{
+		"en"		"Pry open the elevator doors"
+		"pt"		"Abra as portas do elevador"
+		"pt_p"		"Abra as portas do elevador"
+	}
+	"404ff74e075b4a1daed3671e91b2fc52"
+	{
+		"en"		"Attach a spare lever to the elevator"
+		"pt"		"Anexe uma alavanca solta ao elevador"
+		"pt_p"		"Anexe uma alavanca solta ao elevador"
+	}
+}
