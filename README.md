@@ -64,7 +64,7 @@ When making contributions, copy the English language line and paste below and ch
 
 |ID Codes|			 Language		      |				Status		      |   NMO maps   |   NMS maps   |
 |:------:|:--------------------------------------------------:|:---------------------------------------------:|:------------:|:------------:|
-| **en** |	🇺🇸 English				      |	       ♻️ Base Language ♻️ 			|     ✔️      |      ✔️      |
+| **en** |	🇺🇸 English				      |	       ♻️ Base Language 			|     ✔️      |      ✔️      |
 | **de** |	🇩🇪 German (Deutsch)			      |	       ❌ Not Started
 | **fr** |	🇫🇷 French (Français)			      |	       ❌ Not Started
 | **it** |	🇮🇹 Italian (Italiano)			      |        ❌ Not Started
