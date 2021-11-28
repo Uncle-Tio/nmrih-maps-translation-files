@@ -5,65 +5,87 @@
 		"en"		"Weld open motel side entrance"
 		"pt"		"Desolde a entrada lateral do motel"
 		"pt_p"		"Desolde a entrada lateral do motel"
+		"zho"		"用噴槍打開旅館的門"
+		"jp"		"溶接機でホテル通用口を開く"
 	}
 	"bb5ff1cf9dba0cc7418cf905de5143b5"
 	{
 		"en"		"Take propane to cafe"
 		"pt"		"Leve o propano para a cafeteria"
 		"pt_p"		"Leve o propano para a cafeteria"
+		"zho"		"帶著瓦斯筒到咖啡店門前"
+		"jp"		"カフェへ行くためプロパンを取る"
 	}
 	"d27cbcf43b34e81740c1b22439c849e3"
 	{
 		"en"		"Gain entry to managers office and call for extraction"
 		"pt"		"Ganhe acesso ao escritório do gerente e peça a extração"
 		"pt_p"		"Ganhe acesso ao escritório do gerente e peça a extração"
+		"zho"		"嘗試進入管理辦公室求救並逃脫"
+		"jp"		"管理者事務所に入り、救助を呼ぶ"
 	}
 	"61c2509f9834a3c334c9338e471f4341"
 	{
 		"en"		"Find lever for warehouse door"
 		"pt"		"Encontre a alavanca para a porta do armazém"
 		"pt_p"		"Encontre a alavanca para a porta do armazém"
+		"zho"		"尋找槓桿開啟倉庫的大門"
+		"jp"		"倉庫ドアのためのレバーを探す"
 	}
 	"9e21326743fe0b7e96b06b6f03e0013e"
 	{
 		"en"		"Turn sprinklers ON"
 		"pt"		"Ligue o Extintor de Incêndios"
 		"pt_p"		"Ligue o Extintor de Incêndios"
+		"zho"		"啟動滅火灑水器"
+		"jp"		"スプリンクラーを起動する"
 	}
 	"84c6da2f71e794bee4cb7d908f3da268"
 	{
 		"en"		"Proceed to the bar, Find the key"
 		"pt"		"Prossiga para o bar, Encontre a chave"
 		"pt_p"		"Prossiga para o bar, Encontre a chave"
+		"zho"		"尋找吧台上的鑰匙"
+		"jp"		"バーへ行き、キーを探す"
 	}
 	"19eff83a585af4d2b56fea30ff88d354"
 	{
 		"en"		"Find battery, power up truck"
 		"pt"		"Encontre bateria e ligue o caminhão"
 		"pt_p"		"Encontre bateria e ligue o caminhão"
+		"zho"		"尋找汽車電瓶，裝到啟動貨車"
+		"jp"		"バッテリーを探し、トラックの電源を入れる"
 	}
 	"8530cc5b0ad20b108e61bebef0cee486"
 	{
 		"en"		"Find the key to the cinema backdoor"
 		"pt"		"Encontre a chave para a porta dos fundos do cinema"
 		"pt_p"		"Encontre a chave para a porta dos fundos do cinema"
+		"zho"		"尋找鑰匙開啟電影院的後門"
+		"jp"		"映画館裏口の鍵を探す"
 	}
 	"d75afb3312fd8c3fa1214c0a621383c3"
 	{
 		"en"		"Find a way to the basement"
 		"pt"		"Encontre um caminho para o porão"
 		"pt_p"		"Encontre um caminho para o porão"
+		"zho"		"尋找地下室"
+		"jp"		"地下室への道を探す"
 	}
 	"e7e4ecf56aac8f61ce1f0769cccf6fdd"
 	{
 		"en"		"Break through motel side door, Find something suitable to do so"
 		"pt"		"Quebre a porta lateral do motel, Encontre algo adequado para fazer isso"
 		"pt_p"		"Quebre a porta lateral do motel, Encontre algo adequado para fazer isso"
+		"zho"		"破壞掉旅館的門，並尋找一些該做的事情"
+		"jp"		"何か適切なものを見つけ、ホテル横のドアを通り抜ける"
 	}
 	"115ebf9e09093c85d2b179024cd198b2"
 	{
 		"en"		"Break gate lock"
 		"pt"		"Quebre a fechadura do portão"
 		"pt_p"		"Quebre a fechadura do portão"
+		"zho"		"破壞大門"
+		"jp"		"出入り口のロックを壊す"
 	}
 }
