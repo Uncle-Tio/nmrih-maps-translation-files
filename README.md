@@ -60,7 +60,7 @@ When making contributions, copy the English language line and paste below and ch
 	```
 
 
-# Tabela de IDs e status.
+# Language code table and status.
 
 |ID Codes|			 Language		      |				Status		      |   NMO maps   |   NMS maps   |
 |:------:|:--------------------------------------------------:|:---------------------------------------------:|:------------:|:------------:|
@@ -74,8 +74,8 @@ When making contributions, copy the English language line and paste below and ch
 | **zh** |	🇨🇳 Chinese Traditional (繁體中文)		    |	     ❌ Not Started
 | **ru** |	🇷🇺 Russian (Русский)			        |	 ❌ Not Started
 | **jp** |	🇯🇵 Japanese (日本語)			      |	      ❌ Not Started
-| **pt** |	🇧🇷 Brazilian Portuguese (Português Brasileiro) |	📋 *needs a double check*		| ✔️ **Completed** | 📝**In Progress** |
-|**pt_p**|	🇵🇹 Portuguese (Português)			 |	📋 *needs a double check*		| ✔️ **Completed** | 📝**In Progress** |
+| **pt** |	🇧🇷 Brazilian Portuguese (Português Brasileiro) |	📋 *needs a double check*		| ✔️ **Completed** | 📝 **In Progress** |
+|**pt_p**|	🇵🇹 Portuguese (Português)			 |	📋 *needs a double check*		| ✔️ **Completed** | 📝 **In Progress** |
 | **pl** |	🇵🇱 Polish (Polski)				 |	❌ Not Started  			      | |
 | **fi** |	🇫🇮 Finnish (Suomi)				 |	❌ Not Started  			      | |
 | **sv** |	🇸🇪 Swedish (Svenska)				 |	❌ Not Started  			      | |
