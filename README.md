@@ -65,21 +65,21 @@ When making contributions, copy the English language line and paste below and ch
 |ID Codes|			 Language		      |				Status		      |   NMO maps   |   NMS maps   |
 |:------:|:--------------------------------------------------:|:---------------------------------------------:|:------------:|:------------:|
 | **en** |	🇺🇸 English				      |	       ♻️ Base Language 			|     ✔️      |      ✔️      |
-| **de** |	🇩🇪 German (Deutsch)			      |	       ❌ Not Started
-| **fr** |	🇫🇷 French (Français)			      |	       ❌ Not Started
-| **it** |	🇮🇹 Italian (Italiano)			      |        ❌ Not Started
-| **ko** |	🇰🇷 Korean (한국어)			    |	     ❌ Not Started
-| **es** |	🇪🇸 Spanish (Español)			       |        ❌ Not Started
-| **ch** |	🇨🇳 Chinese Simplified (简体中文)		    |	     ❌ Not Started
-| **zh** |	🇨🇳 Chinese Traditional (繁體中文)		    |	     ❌ Not Started
-| **ru** |	🇷🇺 Russian (Русский)			        |	 ❌ Not Started
-| **jp** |	🇯🇵 Japanese (日本語)			      |	      ❌ Not Started
-| **pt** |	🇧🇷 Brazilian Portuguese (Português Brasileiro) |	📋 *needs a double check*		| ✔️ **Completed** | 📝 **In Progress** |
-|**pt_p**|	🇵🇹 Portuguese (Português)			 |	📋 *needs a double check*		| ✔️ **Completed** | 📝 **In Progress** |
-| **pl** |	🇵🇱 Polish (Polski)				 |	❌ Not Started  			      | |
-| **fi** |	🇫🇮 Finnish (Suomi)				 |	❌ Not Started  			      | |
-| **sv** |	🇸🇪 Swedish (Svenska)				 |	❌ Not Started  			      | |
-| **hu** |	🇭🇺 Hungarian (Magyar)				 |	❌ Not Started  			      | |
-| **tr** |	🇹🇷 Turkish (Türkçe)				 |	❌ Not Started  			      | |
-| **el** |	🇬🇷 Greek (Ελληνικά)				 |	❌ Not Started  			      | |
-| **ua** |	🇺🇦 Ukrainian (Українська)			 |	❌ Not Started  			      | |
+| **de** |	🇩🇪 German (Deutsch)			      |	       ❌ Not Started |  |  |
+| **fr** |	🇫🇷 French (Français)			      |	       ❌ Not Started |  |  |
+| **it** |	🇮🇹 Italian (Italiano)			      |        ❌ Not Started |  |  |
+| **ko** |	🇰🇷 Korean (한국어)			    |	     ❌ Not Started |  |  |
+| **es** |	🇪🇸 Spanish (Español)			       |        ❌ Not Started |  |  |
+| **ch** |	🇨🇳 Chinese Simplified (简体中文)		    |	     ❌ Not Started |  |  |
+| **zho**|	🇨🇳 Chinese Traditional (繁體中文)		    |	     📋 *needs a double check*		    | 📝 **In Progress** | ⏳ **Not Started** |
+| **ru** |	🇷🇺 Russian (Русский)			        |	 ❌ Not Started |  |  |
+| **jp** |	🇯🇵 Japanese (日本語)			      |	      📋 *needs a double check*		     | 📝 **In Progress** | ⏳ **Not Started** |
+| **pt** |	🇧🇷 Brazilian Portuguese (Português BR) 	|	✔️ Ready to Use		| ✔️ **Completed** | 📝 **In Progress** |
+|**pt_p**|	🇵🇹 Portuguese (Português)			 |	📋 *Usable (adaptation needed)*			| ✔️ **Completed** | 📝 **In Progress** |
+| **pl** |	🇵🇱 Polish (Polski)				 |	❌ Not Started  			      |  |  |
+| **fi** |	🇫🇮 Finnish (Suomi)				 |	❌ Not Started  			      |  |  |
+| **sv** |	🇸🇪 Swedish (Svenska)				 |	❌ Not Started  			      |  |  |
+| **hu** |	🇭🇺 Hungarian (Magyar)				 |	❌ Not Started  			      |  |  |
+| **tr** |	🇹🇷 Turkish (Türkçe)				 |	❌ Not Started  			      |  |  |
+| **el** |	🇬🇷 Greek (Ελληνικά)				 |	❌ Not Started  			      |  |  |
+| **ua** |	🇺🇦 Ukrainian (Українська)			 |	❌ Not Started  			      |  |  |
