@@ -8,83 +8,111 @@
 		"en"		"Proceed back to Hartington road"
 		"pt"		"Prossiga de volta para a estrada Hartington"
 		"pt_p"		"Prossiga de volta para a estrada Hartington"
+		"zho"		"繼續前往哈廷頓路"
+		"jp"		"ハーティントン道路へ戻る"
 	}
 	"66a6b27580002a706abb513759f47b4b"
 	{
 		"en"		"Use welder on manhole cover"
 		"pt"		"Use o soldador na tampa do bueiro"
 		"pt_p"		"Use o soldador na tampa do bueiro"
+		"zho"		"使用噴槍打開人孔蓋"
+		"jp"		"マンホールカバーに溶接機を使う"
 	}
 	"d6598b115d36d66b7de17c299558ab4f"
 	{
 		"en"		"Proceed to the chapel"
 		"pt"		"Prossiga para a capela"
 		"pt_p"		"Prossiga para a capela"
+		"zho"		"前往教堂"
+		"jp"		"教会へ進む"
 	}
 	"7776df202313723f4240e9319d3639e2"
 	{
 		"en"		"Find crank to open door"
-		"pt"		"Ache a manivela para abrir a porta"
-		"pt_p"		"Ache a manivela para abrir a porta"
+		"pt"		"Ache uma manivela para abrir a porta"
+		"pt_p"		"Ache uma manivela para abrir a porta"
+		"zho"		"尋找轉盤開門"
+		"jp"		"ドアを開けるためクランクを探す"
 	}
 	"8bf5ad0714e090820f11d4508dc20752"
 	{
 		"en"		"Use welder on 3 wall sockets to cause a fire!"
 		"pt"		"Use o soldador em 3 tomadas para causar um incêndio!"
 		"pt_p"		"Use o soldador em 3 tomadas para causar um incêndio!"
+		"zho"		"用噴槍給三個牆上的插座點火"
+		"jp"		"火事を起こすため、３つのコンセントに溶接機を使う！"
 	}
 	"2fc3714af70a1a4770d93f8703bb4bfb"
 	{
 		"en"		"Answer the phone"
 		"pt"		"Atenda o telefone"
 		"pt_p"		"Atenda o telefone"
+		"zho"		"回應公共電話"
+		"jp"		"電話に出る"
 	}
 	"76ad7a367ec62a97e9f5086d5f4b9b0b"
 	{
 		"en"		"Call for help"
 		"pt"		"Peça por ajuda"
 		"pt_p"		"Peça por ajuda"
+		"zho"		"呼叫救援"
+		"jp"		"助けを呼ぶ"
 	}
 	"3b31173afabd99aa56e13376b049dcd3"
 	{
 		"en"		"Find dead staff member to enter warehouse office"
-		"pt"		"Encontre um membro da equipe morto para entrar no escritório do armazém"
-		"pt_p"		"Encontre um membro da equipe morto para entrar no escritório do armazém"
+		"pt"		"Encontre um funcionário morto para entrar no escritório do armazém"
+		"pt_p"		"Encontre um funcionário morto para entrar no escritório do armazém"
+		"zho"		"尋找死去店員的東西進入倉庫辦公室"
+		"jp"		"倉庫事務所に入るために死んだ従業員を探す"
 	}
 	"86ed761bab007b381ffe0a26356c9e84"
 	{
 		"en"		"Proceed to Hartington road"
 		"pt"		"Prossiga para a estrada Hartington"
 		"pt_p"		"Prossiga para a estrada Hartington"
+		"zho"		"前往哈廷頓路"
+		"jp"		"ハーティントン道路へ進む"
 	}
 	"3acdb0d4e6eb85a97e6ef6e22ca2390b"
 	{
 		"en"		"Answer the Phone"
 		"pt"		"Atenda o telefone"
 		"pt_p"		"Atenda o telefone"
+		"zho"		"回應公共電話"
+		"jp"		"電話に出る"
 	}
 	"2c5cc72c32fd0ce535e1d05fdc1e36a9"
 	{
 		"en"		"Find fuel tank to blast through garden wall"
 		"pt"		"Encontre combustível para explodir a parede do jardim"
 		"pt_p"		"Encontre combustível para explodir a parede do jardim"
+		"zho"		"尋找油箱炸開花園的圍牆"
+		"jp"		"庭の壁を吹き飛ばして通り抜けるために、燃料タンクを探す"
 	}
 	"74c77a66e417d8a3ba7a6ce8cf5a08ba"
 	{
 		"en"		"Use TNT to get through to the store"
 		"pt"		"Use TNT para atravessar a loja"
 		"pt_p"		"Use TNT para atravessar a loja"
+		"zho"		"使用TNT炸掉牆壁前往B&Q大賣場"
+		"jp"		"店まで通り抜けるためにTNTを使う"
 	}
 	"b172b33b71d85205906fc78151a9010b"
 	{
 		"en"		"Weld through store side entrance"
 		"pt"		"Desolde a fechadura pela entrada lateral da loja"
 		"pt_p"		"Desolde a fechadura pela entrada lateral da loja"
+		"zho"		"用噴槍打開大賣場的側門"
+		"jp"		"溶接機で通用口を通って店に入る"
 	}
 	"33712216f68e633126113db4fa0b045b"
 	{
 		"en"		"Break into the store."
 		"pt"		"Invada a loja."
 		"pt_p"		"Invada a loja."
+		"zho"		"衝向B&Q大賣場"
+		"jp"		"店内へ押し入る"
 	}
 }
