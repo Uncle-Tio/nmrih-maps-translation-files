@@ -5,65 +5,88 @@
 		"en"		"Place three explosives in the tunnel to secure your escape"
 		"pt"		"Coloque três explosivos no túnel para garantir sua fuga"
 		"pt_p"		"Coloque três explosivos no túnel para garantir sua fuga"
+		"zho"		"將三個炸藥放在隧道，以確保逃生"
+		"jp"		"脱出を安全にするため、３つの爆弾をトンネルに設置する"
 	}
 	"ee0b1fe76d03255c05e15b437e1c3d93"
 	{
 		"en"		"Find the sewer key and escape the city for good"
-		"pt"		"Encontre a chave do esgoto e fuja da cidade para sempre"
-		"pt_p"		"Encontre a chave do esgoto e fuja da cidade para sempre"
+		"pt"		"Encontre a chave do esgoto e fuja da cidade!"
+		"pt_p"		"Encontre a chave do esgoto e fuja da cidade!"
+		"zho"		"找到下水道鑰匙並逃離城市"
+		"jp"		"下水道の鍵を見つけて街を脱出せよ"
+		
 	}
 	"99706966a3c06a8a6cae68d54d6eaf0c"
 	{
 		"en"		"Find an alternative way out of the building"
 		"pt"		"Encontre uma maneira alternativa de sair do prédio"
 		"pt_p"		"Encontre uma maneira alternativa de sair do prédio"
+		"zho"		"找到一個替代的方式走出大樓"
+		"jp"		"ビルを出る別の道を探す"
 	}
 	"049f91d960d1e903b66a1a583d6c231b"
 	{
 		"en"		"Enter the access code"
 		"pt"		"Digite o código de acesso"
 		"pt_p"		"Digite o código de acesso"
+		"zho"		"輸入密碼"
+		"jp"		"アクセスコードを入力する"
 	}
 	"42e18b87edf77aea2a16c3747cd0905b"
 	{
 		"en"		"Open the door to the pawnshop"
 		"pt"		"Abra a porta da loja de penhores"
 		"pt_p"		"Abra a porta da loja de penhores"
+		"zho"		"開門進入當鋪"
+		"jp"		"質屋のドアを開ける"
 	}
 	"2d1fca5999f5f29f7e5192a2c1b45b4b"
 	{
 		"en"		"Find a welder to get through the warehouse"
 		"pt"		"Encontre um soldador para passar pelo armazém"
 		"pt_p"		"Encontre um soldador para passar pelo armazém"
+		"zho"		"尋找銲槍開門進入倉庫"
+		"jp"		"倉庫を通り抜けるために、溶接機を探す"
 	}
 	"f381dc133f1203152838ab372c8ad64e"
 	{
 		"en"		"Find a way to call for help"
 		"pt"		"Encontre uma maneira de pedir ajuda"
 		"pt_p"		"Encontre uma maneira de pedir ajuda"
+		"zho"		"找到無線電呼叫救援"
+		"jp"		"助けを呼ぶ方法を探す"
 	}
 	"ec9114b86a85d8142c48ae2ba30ff343"
 	{
 		"en"		"Gain entry to the apartments through the alley"
 		"pt"		"Acesse entrada para os apartamentos pelo beco"
 		"pt_p"		"Acesse entrada para os apartamentos pelo beco"
+		"zho"		"穿過小巷用瓦斯桶炸門進入公寓"
+		"jp"		"路地を通ってアパートに侵入する"
 	}
 	"102e194ecb5f030d50279b337adaaff9"
 	{
 		"en"		"Turn off the security alarm"
 		"pt"		"Desligue o alarme de segurança"
 		"pt_p"		"Desligue o alarme de segurança"
+		"zho"		"關閉安全警報"
+		"jp"		"セキュリティアラームを止める"
 	}
 	"4ee9e49a0c93914f173d2c308a1e8f51"
 	{
 		"en"		"Break into the market"
 		"pt"		"Invada o mercado"
 		"pt_p"		"Invada o mercado"
+		"zho"		"破壞玻璃進入超市"
+		"jp"		"マーケットに押し入る"
 	}
 	"c1249e9c7552496fa6c1626cf0cb5d90"
 	{
 		"en"		"Escape the safe haven"
 		"pt"		"Escape do porto seguro"
 		"pt_p"		"Escape do porto seguro"
+		"zho"		"逃離避風港"
+		"jp"		"安全な避難所から脱出する"
 	}
 }
