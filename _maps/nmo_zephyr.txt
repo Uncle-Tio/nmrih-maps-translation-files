@@ -5,95 +5,127 @@
 		"en"		"Radio the engineer when ready"
 		"pt"		"Contate o engenheiro pelo rádio quando estiver pronto"
 		"pt_p"		"Contate o engenheiro pelo rádio quando estiver pronto"
+		"zho"		"對無線電呼叫準備完畢"
+		"jp"		"準備が出来たら無線機を使う"
 	}
 	"524a840c9d1475da3a0783a4aae32cb4"
 	{
 		"en"		"Release hand brakes"
 		"pt"		"Solte o freio de mão"
 		"pt_p"		"Solte o freio de mão"
+		"zho"		"鬆開火車廂手煞車"
+		"jp"		"車掌車のハンドブレーキを解除する"
 	}
 	"3b0fa6f41712a986a50175edd021570c"
 	{
 		"en"		"Throw the other switch"
 		"pt"		"Ligue o outro interruptor"
 		"pt_p"		"Ligue o outro interruptor"
+		"zho"		"再一次切換軌道轉換桿"
+		"jp"		"再度、路線を切り替える"
 	}
 	"9209f57c52c22c926d34f0a23a584828"
 	{
 		"en"		"Throw the switch behind the locomotive"
 		"pt"		"Ligue o interruptor atrás da locomotiva"
 		"pt_p"		"Ligue o interruptor atrás da locomotiva"
+		"zho"		"切換軌道轉換桿"
+		"jp"		"路線を切り替える"
 	}
 	"2ede66e4057524d5d99fe5372c8c3278"
 	{
 		"en"		"Unclog the turntable mechanism"
 		"pt"		"Destrave o mecanismo de plataforma giratória"
 		"pt_p"		"Destrave o mecanismo de plataforma giratória"
+		"zho"		"疏通轉盤"
+		"jp"		"ターンテーブルの障害を取り除く"
 	}
 	"c4442cd0d077b341bd9cde14d38274af"
 	{
 		"en"		"Activate the turntable"
 		"pt"		"Ative a plataforma giratória"
 		"pt_p"		"Ative a plataforma giratória"
+		"zho"		"啟動軌道轉盤"
+		"jp"		"ターンテーブルを作動させる"
 	}
 	"d4dc29bb54ae57909d0d07e5cce4575c"
 	{
 		"en"		"Code to the door is 1901"
 		"pt"		"O código para a porta é 1901"
 		"pt_p"		"O código para a porta é 1901"
+		"zho"		"門鎖密碼是 1901"
+		"jp"		"ドアのコードは2606"
 	}
 	"191fce4874680ad0906e2cf1b1cf9de8"
 	{
 		"en"		"Code to the door is 2606"
 		"pt"		"O código para a porta é 2606"
 		"pt_p"		"O código para a porta é 2606"
+		"zho"		"門鎖密碼是 2606"
+		"jp"		"ドアのコードは1901"
 	}
 	"b11981b269d8027fd71f4f1c33768107"
 	{
 		"en"		"Find fuel to power up generator"
 		"pt"		"Encontre combustível para ligar o gerador"
 		"pt_p"		"Encontre combustível para ligar o gerador"
+		"zho"		"給發電機充燃料並啟動"
+		"jp"		"発電機の電源を入れるために燃料を探す"
 	}
 	"508e1396c048761c4ecca8a586a68c1b"
 	{
 		"en"		"Code to the door is 2710"
 		"pt"		"O código para a porta é 2710"
 		"pt_p"		"O código para a porta é 2710"
+		"zho"		"門鎖密碼是 2710"
+		"jp"		"ドアのコードは2710"
 	}
 	"ffeeccfb2951f7196e90c6d3101aba92"
 	{
 		"en"		"Pickup walkie talkie"
 		"pt"		"Pegue o walkie talkie"
 		"pt_p"		"Pegue o walkie talkie"
+		"zho"		"撿起對講機"
+		"jp"		"トランシーバーを拾う"
 	}
 	"90d28724357ce83302e352592cd15059"
 	{
 		"en"		"Activate elevator and ascend to the upper level"
 		"pt"		"Ative o elevador e suba ao nível superior"
 		"pt_p"		"Ative o elevador e suba ao nível superior"
+		"zho"		"打開電源並使用電梯"
+		"jp"		"スイッチを入れてエレベーターを使う"
 	}
 	"b7fa519de1f20a806a3687d8c41742f2"
 	{
 		"en"		"Melt the grate using a welder"
 		"pt"		"Derreta a grade usando um soldador"
 		"pt_p"		"Derreta a grade usando um soldador"
+		"zho"		"用噴槍燒開鐵網"
+		"jp"		"溶接機を使って格子を溶かす"
 	}
 	"10b5e075642918083c47036c9f5e4da8"
 	{
 		"en"		"Find a tool to pry open the manhole"
 		"pt"		"Encontre uma ferramenta para abrir o bueiro"
 		"pt_p"		"Encontre uma ferramenta para abrir o bueiro"
+		"zho"		"撬開人孔蓋"
+		"jp"		"てこでマンホールを開ける"
 	}
 	"64f294234c06b0f2e9164f3ab2620e02"
 	{
 		"en"		"Find a way to access the warehouse"
 		"pt"		"Encontre uma maneira de acessar o armazém"
 		"pt_p"		"Encontre uma maneira de acessar o armazém"
+		"zho"		"炸開倉庫大門"
+		"jp"		"倉庫へ行く方法を探す"
 	}
 	"16a25031a64fe5d482644e73ddadc187"
 	{
 		"en"		"Find the code and escape the office building"
-		"pt"		"Encontre o código e escape do prédio comercial" 
-		"pt_p"		"Encontre o código e escape do prédio comercial"
+		"pt"		"Encontre um código e escape do prédio" 
+		"pt_p"		"Encontre um código e escape do prédio"
+		"zho"		"逃離辦公大樓"
+		"jp"		"オフィスビルから脱出"
 	}
 }
