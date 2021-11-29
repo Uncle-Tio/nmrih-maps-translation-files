@@ -5,35 +5,47 @@
 		"en"		"Power up the radio and call for rescue!"
 		"pt"		"Ligue o rádio e chame o resgate!"
 		"pt_p"		"Ligue o rádio e chame o resgate!"
+		"zho"		"啟動無線電的電源叫媽媽"
+		"jp"		"無線機の電源を入れ、救助を呼ぶ！"
 	}
 	"99f82b126891922a03a06d051aa7ee15"
 	{
 		"en"		"Use welder on the gate's lock to open it!"
 		"pt"		"Use o soldador na fechadura do portão para abri-lo!"
 		"pt_p"		"Use o soldador na fechadura do portão para abri-lo!"
+		"zho"		"用噴槍開門"
+		"jp"		"出入り口のロックを開くために溶接機を使う！"
 	}
 	"8e872efef7941fc409f3a1582a9cb81e"
 	{
 		"en"		"Find your way through the sewers!"
 		"pt"		"Encontre o caminho através dos esgotos!"
 		"pt_p"		"Encontre o caminho através dos esgotos!"
+		"zho"		"尋找前往下水道的路"
+		"jp"		"下水道を通り抜けるあなたの道を見つける！"
 	}
 	"ba0d175adbd0a4f5309e9f80fafb8e20"
 	{
 		"en"		"Release the ladder on the roadblock!"
 		"pt"		"Solte a escada no bloqueio!"
 		"pt_p"		"Solte a escada no bloqueio!"
+		"zho"		"放下路障上的梯子"
+		"jp"		"道路封鎖バリケードの上にある梯子(はしご)を解除する！"
 	}
 	"5664d06e2dc13af792abc520dbe3f9af"
 	{
 		"en"		"Find fuel for generator to open the gate!"
 		"pt"		"Encontre combustível para o gerador abrir o portão!"
 		"pt_p"		"Encontre combustível para o gerador abrir o portão!"
+		"zho"		"尋找發電機燃料，啟動後開門"
+		"jp"		"出入り口を開ける発電機のために燃料を探す！"
 	}
 	"e893fe07ad8d167573913900e4714e92"
 	{
 		"en"		"Escape the subway!"
 		"pt"		"Fuja do metrô!"
 		"pt_p"		"Fuja do metrô!"
+		"zho"		"中國城：鐵道大逃亡"
+		"jp"		"地下鉄を脱出する！"
 	}
 }
