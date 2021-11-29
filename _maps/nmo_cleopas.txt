@@ -5,71 +5,95 @@
 		"en"		"Find welder to get back alley gate open."
 		"pt"		"Encontre o soldador para abrir o portão do beco."
 		"pt_p"		"Encontre o soldador para abrir o portão do beco."
+		"zho"		"爬梯子到門後用焊槍開門，記得攜帶梯子，不要在門內使用焊槍!"
+		"jp"		"路地の門を開けて戻るため、溶接機を探す"
 	}
 	"335cba8d6ce162831eea6cab29889852"
 	{
 		"en"		"Find some pliers to cut the lock, you have 3 minutes to get extracted!"
 		"pt"		"Encontre um alicate para cortar a fechadura, você tem 3 minutos para ser extraido!"
 		"pt_p"		"Encontre um alicate para cortar a fechadura, você tem 3 minutos para ser extraido!"
+		"zho"		"在三分鐘內找到虎頭鉗把門鎖剪開!"
+		"jp"		"プライヤーを探してロックを切る。脱出まで３分間ある！"
 	}
 	"a441a52adb6411977c41f4acde1998b6"
 	{
 		"en"		"Get to the next alley."
 		"pt"		"Vá para o próximo beco."
 		"pt_p"		"Vá para o próximo beco."
+		"zho"		"到下一個巷子"
+		"jp"		"次の路地へ行く"
 	}
 	"eaeed8131f6e119b46276d099dbc9eba"
 	{
 		"en"		"Go through the house and break through the front."
 		"pt"		"Passe pela casa e avance pela frente."
 		"pt_p"		"Passe pela casa e avance pela frente."
+		"zho"		"穿過屋子在前門破門而出"
+		"jp"		"家を通り抜けて、正面を突破する"
 	}
 	"5f4565626afe93865dda3aaf2ce549ef"
 	{
 		"en"		"Blast through alley wall."
-		"pt"		"Exploda a parede do beco."
-		"pt_p"		"Exploda a parede do beco."
+		"pt"		"Exploda a parede marcada do beco."
+		"pt_p"		"Exploda a parede marcada do beco."
+		"zho"		"用小油桶把小巷的牆壁爆破掉，牆上有X標記"
+		"jp"		"路地の壁を爆破して通りぬける"
 	}
 	"55b0fb10856ef300cdd32619694e5304"
 	{
 		"en"		"Find a ladder to get over the alley gate."
 		"pt"		"Encontre uma escada para passar pelo portão do beco."
 		"pt_p"		"Encontre uma escada para passar pelo portão do beco."
+		"zho"		"尋找樓梯放在小巷門口爬出去"
+		"jp"		"路地の門を乗り越えるため、ハシゴを探す"
 	}
 	"12f2f1c5d8e0d14559dae2aaaeb08c1d"
 	{
 		"en"		"Use welder to break into the store."
 		"pt"		"Use o soldador para entrar na loja."
 		"pt_p"		"Use o soldador para entrar na loja."
+		"zho"		"使用噴槍開門進入大賣場"
+		"jp"		"店舗に侵入するため、溶接機を使う"
 	}
 	"a6dfde956c4de9cccdfe2e0cd00ceb54"
 	{
 		"en"		"Use ladder to get into Samco store."
 		"pt"		"Use a escada para entrar na loja Samco."
 		"pt_p"		"Use a escada para entrar na loja Samco."
+		"zho"		"使用樓梯接到樓頂進入賣場門口"
+		"jp"		"サムコストア(Samco)の中に入るため、ハシゴを使う"
 	}
 	"048ce9ef82e833f22db04c7882afba38"
 	{
 		"en"		"Find lever to turn power off."
 		"pt"		"Encontre a alavanca para desligar a energia."
 		"pt_p"		"Encontre a alavanca para desligar a energia."
+		"zho"		"要跨越帶電水窪必須先尋找扳手把電源關閉"
+		"jp"		"電源を落とすためのレバーを探す"
 	}
 	"b0f314e9566d02f8c8bfe650645d1201"
 	{
 		"en"		"Find 4 boards to get across the electrified water."
 		"pt"		"Encontre 4 tábuas para atravessar a água eletrificada."
 		"pt_p"		"Encontre 4 tábuas para atravessar a água eletrificada."
+		"zho"		"用四塊木板架橋通過帶電的水窪"
+		"jp"		"漏電している水たまりを渡るために、４枚の板を探す。"
 	}
 	"790d6972d1009694d43544a7bcbf0d34"
 	{
 		"en"		"Follow the whiteboard objective."
 		"pt"		"Siga o objetivo do quadro branco."
 		"pt_p"		"Siga o objetivo do quadro branco."
+		"zho"		"照著白板說明去做：尋找綠色油箱、麥克風、車用電池"
+		"jp"		"ホワイトボードの目標を見つける"
 	}
 	"06e7ffd6d56b3ec0d74548cc077789b7"
 	{
 		"en"		"Find some tnt to get through the alley gate."
 		"pt"		"Encontre alguma TNT para passar pelo portão do beco."
 		"pt_p"		"Encontre alguma TNT para passar pelo portão do beco."
+		"zho"		"使用TNT把小巷鐵門炸開"
+		"jp"		"路地の門を通りぬけるために、TNTを探す"
 	}
 }
