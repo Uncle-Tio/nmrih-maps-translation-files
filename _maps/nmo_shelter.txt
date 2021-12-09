@@ -5,77 +5,90 @@
 		"en"		"Destroy the board to gain access towards the sewer"
 		"pt"		"Destrua as tábuas para obter acesso ao esgoto"
 		"pt_p"		"Destrua as tábuas para obter acesso ao esgoto"
+		"ru"		"Уничтожьте доску, чтобы пройти к канализации"
 	}
 	"feed2bfb1304382d3cfc83410fb37e84"
 	{
 		"en"		"Head downstairs into the maintenance tunnels"
 		"pt"		"Desça as escadas para os túneis de manutenção"
 		"pt_p"		"Desça as escadas para os túneis de manutenção"
+		"ru"		"Спуститесь вниз по лестнице в туннели"
 	}
 	"24edaaa96691d2a26e3c03b241434a5c"
 	{
 		"en"		"Activate the generator by pressing the button in the engine room"
 		"pt"		"Ative o gerador pressionando o botão na sala de máquinas"
 		"pt_p"		"Ative o gerador pressionando o botão na sala de máquinas"
+		"ru"		"Активируйте генератор, нажав кнопку в машинном отделении"
 	}
 	"d635a745d4cb55e762b678d2268ddd71"
 	{
 		"en"		"Turn off the gas"
 		"pt"		"Desligue o gás"
 		"pt_p"		"Desligue o gás"
+		"ru"		"Выключите газ"
 	}
 	"0055623d9377e06c3314401c31f8fa22"
 	{
 		"en"		"Prepare your escape route!"
 		"pt"		"Prepare sua rota de fuga!"
 		"pt_p"		"Prepare sua rota de fuga!"
+		"ru"		"Подготовьте пути отхода!"
 	}
 	"76193d7f908f0d97ae1f872847aa306b"
 	{
 		"en"		"Find switches and activate them onto the panel"
 		"pt"		"Encontre interruptores e ative-os no painel"
 		"pt_p"		"Encontre interruptores e ative-os no painel"
+		"ru"		"Найдите переключатели и активируйте их на панели"
 	}
 	"d61edd9a82df450605e0a609a1a829c1"
 	{
 		"en"		"Look for clues"
 		"pt"		"Procure por pistas"
 		"pt_p"		"Procure por pistas"
+		"ru"		"Ищите подсказки"
 	}
 	"c0e7dd8187035b6bc9fc0e3c9dfaef32"
 	{
 		"en"		"Open the door which is pointing towards the sewers"
 		"pt"		"Abra a porta que está apontando para os esgotos"
 		"pt_p"		"Abra a porta que está apontando para os esgotos"
+		"ru"		"Откройте дверь, которая ведёт в канализацию"
 	}
 	"7138b3d42841df93413b6b782c9c3887"
 	{
 		"en"		"Find a lever and use it to gain entrance towards the maintenance tunnels"
 		"pt"		"Encontre uma alavanca e use-a para entrar nos túneis de manutenção"
 		"pt_p"		"Encontre uma alavanca e use-a para entrar nos túneis de manutenção"
+		"ru"		"Найдите рычаг и используйте его, чтобы пройти в туннели"
 	}
 	"09e72c25905f962a8ca924e99a9dcf1b"
 	{
 		"en"		"Use the heart key to open up the door connecting to the lobby room (which is located upstairs)"
 		"pt"		"Use a chave de coração para abrir a porta que conecta com a sala do saguão (localizada no andar de cima)"
 		"pt_p"		"Use a chave de coração para abrir a porta que conecta com a sala do saguão (localizada no andar de cima)"
+		"ru"		"Используйте ключ в форме сердца, чтобы открыть дверь, ведущую в лобби (который находится наверху)."
 	}
 	"69afececefba53d19d794b8b23e4d898"
 	{
 		"en"		"Find a way to open up the control room"
 		"pt"		"Encontre uma maneira de abrir a sala de controle"
 		"pt_p"		"Encontre uma maneira de abrir a sala de controle"
+		"ru"		"Найдите способ открыть комнату управления"
 	}
 	"625849882164ee63a4340ffc0b758af6"
 	{
 		"en"		"Go upstairs"
 		"pt"		"Suba as escadas"
 		"pt_p"		"Suba as escadas"
+		"ru"		"Поднимайтесь наверх"
 	}
 	"4f1eef866b82362cec42b80dc09a84da"
 	{
 		"en"		"Proceed to the main hall"
 		"pt"		"Prossiga para o salão principal"
 		"pt_p"		"Prossiga para o salão principal"
+		"ru"		"Пройдите в главный зал"
 	}
 }

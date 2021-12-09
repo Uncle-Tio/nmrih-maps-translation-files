@@ -5,53 +5,62 @@
 		"en"		"Find keys to the recreational vehicle."
 		"pt"		"Encontre as chaves do veículo recreativo."
 		"pt_p"		"Encontre as chaves do veículo recreativo."
+		"ru"		"Найдите ключи от рекреационного транспортного средства."
 	}
 	"1cd18ac0632cae7b0cda0cf34208a767"
 	{
 		"en"		"Unlock the hospital doors."
 		"pt"		"Destranque as portas do hospital."
 		"pt_p"		"Destranque as portas do hospital."
+		"ru"		"Откройте двери больницы."
 	}
 	"90abe13b6cd654922ee67f479e28dc47"
 	{
 		"en"		"Torch through the parking garage."
 		"pt"		"Use o Maçarico na garagem do estacionamento."
 		"pt_p"		"Use o Maçarico na garagem do estacionamento."
+		"ru"		"Прорежьте проход через гараж."
 	}
 	"e87a563d782f9eee7b47e547f4e08f2e"
 	{
 		"en"		"Climb the fence with a ladder."
 		"pt"		"Escale a cerca com uma escada."
 		"pt_p"		"Escale a cerca com uma escada."
+		"ru"		"Заберитесь на забор с помощью лестницы."
 	}
 	"a75313d53b8f4770b7a58ff858744d27"
 	{
 		"en"		"Exit the subway station."
 		"pt"		"Saia da estação de metrô."
 		"pt_p"		"Saia da estação de metrô."
+		"ru"		"Выйдите из станции метро."
 	}
 	"720343033a3acd61a84a58f5819158fb"
 	{
 		"en"		"Raise the gate."
 		"pt"		"Levante o portão."
 		"pt_p"		"Levante o portão."
+		"ru"		"Поднимите ворота."
 	}
 	"d7fd7db055844254fd5a880e7e66e8e9"
 	{
 		"en"		"Break down the barricade."
 		"pt"		"Derrube a barricada."
 		"pt_p"		"Derrube a barricada."
+		"ru"		"Разрушьте баррикаду."
 	}
 	"65ab04a22d63b60142ffbf47b4129567"
 	{
 		"en"		"Extinguish the fire."
 		"pt"		"Apague o fogo."
 		"pt_p"		"Apague o fogo."
+		"ru"		"Потушите огонь."
 	}
 	"cef90809917b79006c00f8c9cec823d8"
 	{
 		"en"		"Cut through the shutter."
 		"pt"		"Corte pela persiana."
 		"pt_p"		"Corte pela persiana."
+		"ru"		"Прорежьте замок на воротах."
 	}
 }

@@ -5,47 +5,55 @@
 		"en"		"Light a Signal Fire."
 		"pt"		"Acenda um Sinal de Fogo."
 		"pt_p"		"Acenda um Sinal de Fogo."
+		"ru"		"Зажгите сигнальный огонь."
 	}
 	"b0d08821a414146ed100ad168b0da8e3"
 	{
 		"en"		"Make Your Way to the Safehouse."
 		"pt"		"Faça o seu caminho para a casa segura."
 		"pt_p"		"Faça o seu caminho para a casa segura."
+		"ru"		"Доберитесь до убежища."
 	}
 	"06ced8b37b8ab4ed9ccb1a644b8b652d"
 	{
 		"en"		"Burn Away the Obstruction."
 		"pt"		"Queime a obstrução."
 		"pt_p"		"Queime a obstrução."
+		"ru"		"Сожгите препятствие."
 	}
 	"9dbac98f9ca8692c65e4b3cbda25c4a9"
 	{
 		"en"		"Breach the Barricade."
 		"pt"		"Quebre a Barricada."
 		"pt_p"		"Quebre a Barricada."
+		"ru"		"Прорвать баррикаду."
 	}
 	"731b30b10b3da64b33b75b97fa08d33d"
 	{
 		"en"		"Hold Out Until Help Arrives."
 		"pt"		"Aguente até que a ajuda chegue."
 		"pt_p"		"Aguente até que a ajuda chegue."
+		"ru"		"Продержитесь до прибытия помощи."
 	}
 	"7fd2f9f6e35e26d94e58beca333d50dd"
 	{
 		"en"		"Survive."
 		"pt"		"Sobreviva."
 		"pt_p"		"Sobreviva."
+		"ru"		"Выжить."
 	}
 	"9458f887d6cb9d8dc28bd38dc6c272ab"
 	{
 		"en"		"Find a Key to Open the Door."
 		"pt"		"Encontre uma chave para abrir a porta."
 		"pt_p"		"Encontre uma chave para abrir a porta."
+		"ru"		"Найдите ключ, чтобы открыть дверь."
 	}
 	"9dd1ea3cbc8097cbdea3e0f01aa8d5dd"
 	{
 		"en"		"Use the Radio to Call for Help."
 		"pt"		"Use o rádio para pedir ajuda."
 		"pt_p"		"Use o rádio para pedir ajuda."
+		"ru"		"Используйте радио для вызова помощи."
 	}
 }

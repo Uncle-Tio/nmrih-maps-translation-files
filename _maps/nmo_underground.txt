@@ -5,59 +5,69 @@
 		"en"		"Push the cart!"
 		"pt"		"Empurre o carrinho!"
 		"pt_p"		"Empurre o carrinho!"
+		"ru"		"Толкайте тележку!"
 	}
 	"7ea5a327211ea3e46410cddf480f4870"
 	{
 		"en"		"Look for a code in the office building and loot a can of paint!"
 		"pt"		"Procure um código nos escritórios e pegue uma lata de tinta!"
 		"pt_p"		"Procure um código nos escritórios e pegue uma lata de tinta!"
+		"ru"		"Найдите код в офисном здании и найдите банку с краской!"
 	}
 	"d66631a6a45c3766389b81518dca2c63"
 	{
 		"en"		"Loot the car battery!"
 		"pt"		"Leve a bateria do carro!"
 		"pt_p"		"Leve a bateria do carro!"
+		"ru"		"Найдите аккумулятор машины!"
 	}
 	"edfd7a0b80906af47a8df7bacdbed889"
 	{
 		"en"		"Loot a smoke grenade!"
 		"pt"		"Pegue uma granada de fumaça!"
 		"pt_p"		"Pegue uma granada de fumaça!"
+		"ru"		"Найдите дымовую гранату!"
 	}
 	"36f626b6168606564d0c996db8dacee7"
 	{
 		"en"		"Wait for the helicopter!"
 		"pt"		"Espere pelo helicóptero!"
 		"pt_p"		"Espere pelo helicóptero!"
+		"ru"		"Ждите вертолёта!"
 	}
 	"a5d6ab8f48855623a5c5b4e669f087dc"
 	{
 		"en"		"Use all looted items!"
 		"pt"		"Use todos os itens saqueados!"
 		"pt_p"		"Use todos os itens saqueados!"
+		"ru"		"Используйте все найденные предметы!"
 	}
 	"18aff5e16cc4e562426699ca96ee5562"
 	{
 		"en"		"Activate elevator!"
 		"pt"		"Ative o elevador!"
 		"pt_p"		"Ative o elevador!"
+		"ru"		"Включите лифт!"
 	}
 	"205662c3189b5917fec142155ac7a556"
 	{
 		"en"		"Find dynamite and blow up the wall!"
 		"pt"		"Encontre dinamite e exploda a parede!"
 		"pt_p"		"Encontre dinamite e exploda a parede!"
+		"ru"		"Найдите динамит и взорвите стену!"
 	}
 	"a4bb1ea8e90df1f6e649abbc8f82e434"
 	{
 		"en"		"Weld through grate!"
 		"pt"		"Desolde as grades!"
 		"pt_p"		"Desolde as grades!"
+		"ru"		"Проварите путь через решетку!"
 	}
 	"9561fac78cb5c2a50e5358af8c90ab41"
 	{
 		"en"		"Find a way to open the door!"
 		"pt"		"Encontre uma maneira de abrir a porta!"
 		"pt_p"		"Encontre uma maneira de abrir a porta!"
+		"ru"		"Найдите способ открыть дверь!"
 	}
 }

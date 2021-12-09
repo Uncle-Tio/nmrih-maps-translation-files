@@ -7,6 +7,7 @@
 		"pt_p"		"Use uma escada para se esgueirar para dentro da quarentena"
 		"zho"		"使用梯子潛入隔離區"
 		"jp"		"隔離された場所へ忍び込むため、梯子を使う"
+		"ru"		"Используйте лестницу, чтобы пробраться внутрь карантина"
 	}
 	"4eb3e1a72bba703665de0235778d4442"
 	{
@@ -15,6 +16,7 @@
 		"pt_p"		"Use um soldador para abrir a porta da quarentena"
 		"zho"		"使用焊槍焊開隔離大門"
 		"jp"		"検疫ドアを切って開けるために、溶接機を使う"
+		"ru"		"Используйте сварочный аппарат, чтобы открыть карантинную дверь"
 	}
 	"41823810d890bf51eebb6bf4d1b16b55"
 	{
@@ -23,6 +25,7 @@
 		"pt_p"		"Mantenha o diesel bombeando"
 		"zho"		"開始給直昇機加油，加油中..."
 		"jp"		"ディーゼルを給油し続ける"
+		"ru"		"Обеспечьте перекачку дизельного топлива"
 	}
 	"491f174fb4cc23ee5421a3d890577ce8"
 	{
@@ -31,6 +34,7 @@
 		"pt_p"		"Instale a bomba diesel para o helicóptero"
 		"zho"		"給直昇機插入加油管"
 		"jp"		"ヘリにディーゼル給油機をセットする"
+		"ru"		"Настройте дизельный насос для вертолёта"
 	}
 	"7f7263a7d9aff6f19dbe7b3e61bff24a"
 	{
@@ -39,6 +43,7 @@
 		"pt_p"		"Peça um S.O.S por Rádio"
 		"zho"		"無線電求援"
 		"jp"		"SOSを無線する"
+		"ru"		"Подайте сигнал S.O.S"
 	}
 	"087109d915c5a7a318d094d837119855"
 	{
@@ -47,6 +52,7 @@
 		"pt_p"		"Encontre o fusível para o gerador da superfície"
 		"zho"		"給發電機主控找到保險絲"
 		"jp"		"表の発電機のために、ヒューズを見つける"
+		"ru"		"Найдите предохранитель для генератора на поверхности"
 	}
 	"75c00a602eda6cca99eeca57dc9ca211"
 	{
@@ -55,6 +61,7 @@
 		"pt_p"		"Saia da área de descontaminação"
 		"zho"		"出去!現在!一定要破門，離開淨化區"
 		"jp"		"除染エリアから抜け出す"
+		"ru"		"Выходите из зоны обеззараживания"
 	}
 	"3cbfa154512f7bff147e238d45ecf9e7"
 	{
@@ -63,6 +70,7 @@
 		"pt_p"		"Use a chave do capitão para acessar o arsenal"
 		"zho"		"使用隊長的鑰匙進入軍械庫"
 		"jp"		"武器庫へ行くため指揮官の鍵を使う"
+		"ru"		"Используйте ключ капитана, чтобы пройти к оружейной"
 	}
 	"0d8078da18185ac0c62b919c2dcd5c7b"
 	{
@@ -71,6 +79,7 @@
 		"pt_p"		"Pegue a vacina escondida"
 		"zho"		"帶走藏起來的疫苗"
 		"jp"		"隠されたワクチンを取る"
+		"ru"		"Возьмите припрятанную вакцину"
 	}
 	"bb92e153bda076ce5ccca08f84adc4e9"
 	{
@@ -79,6 +88,7 @@
 		"pt_p"		"Desacople o vagão de carga"
 		"zho"		"解開車子連結"
 		"jp"		"ロードワゴンを切り離す"
+		"ru"		"Отцепите грузовую тележку"
 	}
 	"6cf3557a8bdd091b1972feff7e9a5a72"
 	{
@@ -87,6 +97,7 @@
 		"pt_p"		"Arme o procedimento de esterilização."
 		"zho"		"開始滅菌過程"
 		"jp"		"滅菌処理を開始させる"
+		"ru"		"Запустите процедуру стерилизации"
 	}
 	"7d42b1c11d70aa1ed405b5a6a507c164"
 	{
@@ -95,6 +106,7 @@
 		"pt_p"		"Assegure a vacina no ponto de entrega"
 		"zho"		"保護好疫苗和物資，等待直昇機來收取"
 		"jp"		"落下物資の上にワクチンを固定する"
+		"ru"		"Обеспечьте сохранность вакцины в ящике припасов"
 	}
 	"eecabff3d5cace6de1fa568c45de787d"
 	{
@@ -103,6 +115,7 @@
 		"pt_p"		"Proteja a vacina na maleta"
 		"zho"		"保護疫苗"
 		"jp"		"ワクチンをケースに保管する"
+		"ru"		"Обеспечьте сохранность вакцины в кейсе"
 	}
 	"10a43ddd59f100a5bdace9b2e9c15f30"
 	{
@@ -111,6 +124,7 @@
 		"pt_p"		"Use a chave para abrir o portão da superfície"
 		"zho"		"使用鑰匙開啟通往升降平台的大門"
 		"jp"		"表門を開けるため、鍵を使う"
+		"ru"		"Используйте ключ, чтобы открыть ворота на поверхность"
 	}
 	"57d92990287b8fe3c8a292ebda7c9b68"
 	{
@@ -119,6 +133,7 @@
 		"pt_p"		"Desolde a trava da escada"
 		"zho"		"解焊梯子鎖"
 		"jp"		"梯子のラッチ(掛けがね)を溶接機で焼き切る"
+		"ru"		"Отварите защелку лестницы"
 	}
 	"cf2970da9a929a7dc8cc0f9e25b11752"
 	{
@@ -127,6 +142,7 @@
 		"pt_p"		"Use detonadores para limpar o deslizamento de rochas"
 		"zho"		"使用雷管清除詭異的落石"
 		"jp"		"岩滑りを取り除くため、雷管を使う"
+		"ru"		"Используйте взрыватель для подрыва горной породы"
 	}
 	"86f7f8bf4b512dcca9762fb6515cb139"
 	{
@@ -135,6 +151,7 @@
 		"pt_p"		"Use os detonadores para explodir as rochas"
 		"zho"		"使用雷管炸毀岩石"
 		"jp"		"岩を爆破するため、雷管を使う"
+		"ru"		"Используйте взрыватель, чтобы взорвать скалу"
 	}
 	"51b803c9b907aa99e4d76abc11ef542e"
 	{
@@ -143,6 +160,7 @@
 		"pt_p"		"Use a manivela para abrir o portão das amostras"
 		"zho"		"使用轉輪把手升起升降門"
 		"jp"		"検体ゲートを開けるために、クランクを使う"
+		"en"		"Используйте рукоятку для открытия ворот с образцами"
 	}
 	"e916582f96d1773556af9b485e6e2597"
 	{
@@ -151,6 +169,7 @@
 		"pt_p"		"Corte a energia da poça eletrificada"
 		"zho"		"切斷水窪的通電電源"
 		"jp"		"漏電している水たまりへの電源を止める"
+		"ru"		"Отключите питание к электрифицированной воде"
 	}
 	"58781bfda011b4ff216723ecababadf0"
 	{
@@ -159,6 +178,7 @@
 		"pt_p"		"Peça pelo resgate no Rádio"
 		"zho"		"無線電救援"
 		"jp"		"救助のため無線で連絡する"
+		"ru"		"Запросите помощь"
 	}
 	"6a9ba8d3d2c224552a1ef023b8c92767"
 	{
@@ -167,6 +187,7 @@
 		"pt_p"		"Encontre um explosivo para abrir a porta da quarentena"
 		"zho"		"爆破隔離門"
 		"jp"		"検疫ドアを開けるため、爆発物を探す"
+		"ru"		"Найдите взрывчатку, чтобы открыть дверь карантина"
 	}
 	"d47a8f00a970b089d088ac06969d5cf2"
 	{
@@ -175,6 +196,7 @@
 		"pt_p"		"Escape do complexo antes da esterilização"
 		"zho"		"在消毒前逃離美國聯邦緊急事務管理署(FEMA)"
 		"jp"		"滅菌前に集合施設から逃げる"
+		"ru"		"Сбегите из комплекса перед стерилизацией"
 	}
 	"6df5d1371f06444b72f5ff87531d46f1"
 	{
@@ -183,6 +205,7 @@
 		"pt_p"		"Instale os recipientes de Napalm "
 		"zho"		"填裝凝固汽油灌"
 		"jp"		"ナパームキャニスターを充填する"
+		"ru"		"Заправьте канистры с напалмом"
 	}
 	"79d62cb27d9675bf5406b8054b9983ee"
 	{
@@ -191,6 +214,7 @@
 		"pt_p"		"Recupere a vacina retroviral"
 		"zho"		"回復逆轉濾過性病毒疫苗"
 		"jp"		"レトロウイルスワクチンを取り戻す"
+		"ru"		"Восстановите ретровирусную вакцину"
 	}
 	"ad4ebb86476c6420ae033484465b8940"
 	{
@@ -199,6 +223,7 @@
 		"pt_p"		"Toque a voz do bob the master’s para abrir o freezer de alta segurança"
 		"zho"		"用錄音機播放飽伯的聲音開啟高級安全密碼鎖"
 		"jp"		"高度セキュリティ冷蔵庫を開くため、ボブの雇い主の音声を再生する"
+		"ru"		"Воспроизведите голос хозяина, чтобы открыть морозильную камеру"
 	}
 	"601b993dfcf6ad6192f909400e64d717"
 	{
@@ -207,6 +232,7 @@
 		"pt_p"		"Use o rádio para enviar um SOS"
 		"zho"		"用無線電送出求援"
 		"jp"		"SOSを送るため無線機を使う"
+		"ru"		"Используйте радио, чтобы послать сигнал SOS"
 	}
 	"a75f031ce37cf8ea4dbbce8e0639e0f9"
 	{
@@ -215,6 +241,7 @@
 		"pt_p"		"Reative o relé de rádio"
 		"zho"		"重新啟動無線電中繼器"
 		"jp"		"無線中継を再起動する"
+		"ru"		"Включите радиосвязь"
 	}
 	"fc6620c3c8a72abf2133fea141bcdfff"
 	{
@@ -223,6 +250,7 @@
 		"pt_p"		"Use o código de Menglers para abrir o freezer de alta segurança"
 		"zho"		"使用電腦顯示的密碼開啟門旁邊的高級安全密碼鎖"
 		"jp"		"高度セキュリティ冷蔵庫を開くため、メングラーのコード(番号)を使う"
+		"ru"		"Используйте код Менглерса, чтобы открыть морозильную камеру"
 	}
 	"c65221a9f974f1b5dc481b8aec9ccd3f"
 	{
@@ -231,6 +259,7 @@
 		"pt_p"		"Use o cartão I.D  para desativar o bloqueio viral "
 		"zho"		"使用ID認證卡解除病毒檢疫鎖定開關"
 		"jp"		"ウイルスロックダウン(ウイルスによる非常閉鎖）を解除するためIDカードを使う"
+		"ru"		"Используйте I.D-карту для отключения карантина"
 	}
 	"0d2d87df31e70d2fe54ccdf70879201b"
 	{
@@ -239,6 +268,7 @@
 		"pt_p"		"Conserte a caixa de fusíveis para abrir a porta de emergência"
 		"zho"		"修理保險絲開關以開啟緊急逃生門"
 		"jp"		"非常ドアをを開けるため、ヒューズボックスを修理する"
+		"ru"		"Почините блок предохранителей, чтобы открыть аварийную дверь"
 	}
 	"a1a857670cbe85dd01d4ca3ac6c30099"
 	{
@@ -247,6 +277,7 @@
 		"pt_p"		"Iniciada a contagem regressiva da esterilização!"
 		"zho"		"消毒開始倒數"
 		"jp"		"殺菌処理カウントダウン開始"
+		"ru"		"Начался обратный отсчёт времени стерилизации!"
 	}
 	"97830abfcf40408e632bb6e97bbc7346"
 	{
@@ -255,6 +286,7 @@
 		"pt_p"		"5 segundos até a esterilização."
 		"zho"		"5秒後消毒"
 		"jp"		"殺菌処理まで５秒"
+		"ru"		"5 секунд до стерилизации."
 	}
 	"c9a5a16f5eff6fb532c075389bd70c71"
 	{
@@ -263,6 +295,7 @@
 		"pt_p"		"Iniciando a esterilização."
 		"zho"		"正在啟動消毒程序"
 		"jp"		"殺菌処理開始"
+		"ru"		"Начало стерилизации."
 	}
 	"e833ba3ff4c23d31e5415f808cf68af7"
 	{
@@ -271,6 +304,7 @@
 		"pt_p"		"10 segundos até a esterilização."
 		"zho"		"10秒後消毒"
 		"jp"		"殺菌処理まで１０秒"
+		"ru"		"10 секунд до стерилизации."
 	}
 	"87adbf0e3970e294bc1ae5cee1a2e70d"
 	{
@@ -279,6 +313,7 @@
 		"pt_p"		"20 segundos até a esterilização."
 		"zho"		"20秒後消毒"
 		"jp"		"殺菌処理まで２０秒"
+		"ru"		"20 секунд до стерилизации."
 	}
 	"e5a301e9e81b43450da127c1997e6965"
 	{
@@ -287,5 +322,6 @@
 		"pt_p"		"30 segundos até a esterilização."
 		"zho"		"30秒後消毒"
 		"jp"		"殺菌処理まで３０秒"
+		"ru"		"30 секунд до стерилизации."
 	}
 }
