@@ -7,6 +7,7 @@
 		"pt_p"		"Contate o engenheiro pelo rádio quando estiver pronto"
 		"zho"		"對無線電呼叫準備完畢"
 		"jp"		"準備が出来たら無線機を使う"
+		"ru"		"Сообщите инженеру по радио о готовности"
 	}
 	"524a840c9d1475da3a0783a4aae32cb4"
 	{
@@ -15,6 +16,7 @@
 		"pt_p"		"Solte o freio de mão"
 		"zho"		"鬆開火車廂手煞車"
 		"jp"		"車掌車のハンドブレーキを解除する"
+		"ru"		"Отпустите ручной тормоз"
 	}
 	"3b0fa6f41712a986a50175edd021570c"
 	{
@@ -23,6 +25,7 @@
 		"pt_p"		"Ligue o outro interruptor"
 		"zho"		"再一次切換軌道轉換桿"
 		"jp"		"再度、路線を切り替える"
+		"ru"		"Бросьте другой переключатель"
 	}
 	"9209f57c52c22c926d34f0a23a584828"
 	{
@@ -31,6 +34,7 @@
 		"pt_p"		"Ligue o interruptor atrás da locomotiva"
 		"zho"		"切換軌道轉換桿"
 		"jp"		"路線を切り替える"
+		"ru"		"Бросьте выключатель позади локомотива"
 	}
 	"2ede66e4057524d5d99fe5372c8c3278"
 	{
@@ -39,6 +43,7 @@
 		"pt_p"		"Destrave o mecanismo de plataforma giratória"
 		"zho"		"疏通轉盤"
 		"jp"		"ターンテーブルの障害を取り除く"
+		"ru"		"Прочистите механизм поворотного круга"
 	}
 	"c4442cd0d077b341bd9cde14d38274af"
 	{
@@ -47,6 +52,7 @@
 		"pt_p"		"Ative a plataforma giratória"
 		"zho"		"啟動軌道轉盤"
 		"jp"		"ターンテーブルを作動させる"
+		"ru"		"Переключите поворотный круг"
 	}
 	"d4dc29bb54ae57909d0d07e5cce4575c"
 	{
@@ -55,6 +61,7 @@
 		"pt_p"		"O código para a porta é 1901"
 		"zho"		"門鎖密碼是 1901"
 		"jp"		"ドアのコードは2606"
+		"ru"		"Код к двери 1901"
 	}
 	"191fce4874680ad0906e2cf1b1cf9de8"
 	{
@@ -63,6 +70,7 @@
 		"pt_p"		"O código para a porta é 2606"
 		"zho"		"門鎖密碼是 2606"
 		"jp"		"ドアのコードは1901"
+		"ru"		"Код к двери 2606"
 	}
 	"b11981b269d8027fd71f4f1c33768107"
 	{
@@ -71,6 +79,7 @@
 		"pt_p"		"Encontre combustível para ligar o gerador"
 		"zho"		"給發電機充燃料並啟動"
 		"jp"		"発電機の電源を入れるために燃料を探す"
+		"ru"		"Найдите топливо для питания генератора"
 	}
 	"508e1396c048761c4ecca8a586a68c1b"
 	{
@@ -79,6 +88,7 @@
 		"pt_p"		"O código para a porta é 2710"
 		"zho"		"門鎖密碼是 2710"
 		"jp"		"ドアのコードは2710"
+		"ru"		"Код к двери 2710"
 	}
 	"ffeeccfb2951f7196e90c6d3101aba92"
 	{
@@ -87,6 +97,7 @@
 		"pt_p"		"Pegue o walkie talkie"
 		"zho"		"撿起對講機"
 		"jp"		"トランシーバーを拾う"
+		"ru"		"Возьмите рацию «ходилка-говорилка»"
 	}
 	"90d28724357ce83302e352592cd15059"
 	{
@@ -95,6 +106,7 @@
 		"pt_p"		"Ative o elevador e suba ao nível superior"
 		"zho"		"打開電源並使用電梯"
 		"jp"		"スイッチを入れてエレベーターを使う"
+		"ru"		"Включите лифт и поднимитесь на верхний этаж"
 	}
 	"b7fa519de1f20a806a3687d8c41742f2"
 	{
@@ -103,6 +115,7 @@
 		"pt_p"		"Derreta a grade usando um soldador"
 		"zho"		"用噴槍燒開鐵網"
 		"jp"		"溶接機を使って格子を溶かす"
+		"ru"		"Расплавьте решётку с помощью сварки"
 	}
 	"10b5e075642918083c47036c9f5e4da8"
 	{
@@ -111,6 +124,7 @@
 		"pt_p"		"Encontre uma ferramenta para abrir o bueiro"
 		"zho"		"撬開人孔蓋"
 		"jp"		"てこでマンホールを開ける"
+		"ru"		"Найдите инструмент, чтобы открыть люк"
 	}
 	"64f294234c06b0f2e9164f3ab2620e02"
 	{
@@ -119,6 +133,7 @@
 		"pt_p"		"Encontre uma maneira de acessar o armazém"
 		"zho"		"炸開倉庫大門"
 		"jp"		"倉庫へ行く方法を探す"
+		"ru"		"Найдите способ войти на склад"
 	}
 	"16a25031a64fe5d482644e73ddadc187"
 	{
@@ -127,5 +142,6 @@
 		"pt_p"		"Encontre um código e escape do prédio"
 		"zho"		"逃離辦公大樓"
 		"jp"		"オフィスビルから脱出"
+		"ru"		"Найдите код и сбегите из офисного здания"
 	}
 }

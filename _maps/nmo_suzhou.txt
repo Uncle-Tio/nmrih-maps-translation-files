@@ -5,149 +5,174 @@
 		"en"		"Rescue is coming! Survive!"
 		"pt"		"O resgate está chegando! Sobreviva!"
 		"pt_p"		"O resgate está chegando! Sobreviva!"
+		"ru"		"Спасение уже близко! Выживите!"
 	}
 	"967566d7902002cadcd527f6e0d1abcf"
 	{
 		"en"		"Set fire to the evac center using a welder to signal the boat!"
 		"pt"		"Ponha fogo no centro de evacuação usando um soldador para sinalizar o barco!"
 		"pt_p"		"Ponha fogo no centro de evacuação usando um soldador para sinalizar o barco!"
+		"ru"		"Разожгите костёр в пункте эвакуации с помощью сварки, чтобы подать сигнал кораблю!"
 	}
 	"d53c6b290f5f9f10fbf0dbdc1c45c7b4"
 	{
 		"en"		"Find some fuel"
 		"pt"		"Encontre algum combustível"
 		"pt_p"		"Encontre algum combustível"
+		"ru"		"Найдите немного топлива"
 	}
 	"c9614af4003e47e5fa54a7d9c6c3a1cf"
 	{
 		"en"		"Find a way to signal the boat"
 		"pt"		"Encontre uma maneira de sinalizar o barco"
 		"pt_p"		"Encontre uma maneira de sinalizar o barco"
+		"ru"		"Найдите способ подать сигнал кораблю"
 	}
 	"e838a97e9b16b566e3e8be8be8bc3096"
 	{
 		"en"		"Power is down, find a car battery to run it"
 		"pt"		"A energia caiu, encontre uma bateria de carro para alimentá-la"
 		"pt_p"		"A energia caiu, encontre uma bateria de carro para alimentá-la"
+		"ru"		"Электричество отключено, найдите аккумулятор от машины, чтобы запустить его"
 	}
 	"77db27ef7a43e6dcb107da9729b834a2"
 	{
 		"en"		"Evac station has succumbed to infection! Use radio to call help!"
 		"pt"		"A estação de evacuação sucumbiu à infecção! Use o rádio para chamar ajuda!"
 		"pt_p"		"A estação de evacuação sucumbiu à infecção! Use o rádio para chamar ajuda!"
+		"ru"		"Пункт эвакуации заполнили заражённые! Используйте радио, чтобы вызвать помощь!"
 	}
 	"6f837e2bdeab30e1276e1120d176effa"
 	{
 		"en"		"Continue to evac station"
 		"pt"		"Continue para a estação de evacuação"
 		"pt_p"		"Continue para a estação de evacuação"
+		"ru"		"Продолжайте путь к пункту эвакуации"
 	}
 	"ed5398c80203d1d39d241eaafc80b69e"
 	{
 		"en"		"Cross canal via the truck"
 		"pt"		"Atravesse o canal com o caminhão"
 		"pt_p"		"Atravesse o canal com o caminhão"
+		"ru"		"Пересеките канал с помощью грузовика"
 	}
 	"bf12911ae65b7ac3f98bab9f954010ee"
 	{
 		"en"		"Clear the path by moving the truck"
 		"pt"		"Limpe o caminho movendo o caminhão"
 		"pt_p"		"Limpe o caminho movendo o caminhão"
+		"ru"		"Расчистите путь, используя грузовик"
 	}
 	"168976761fb90198d736ad157c21f8ce"
 	{
 		"en"		"Find a car battery to power the door"
 		"pt"		"Encontre uma bateria de carro para alimentar a porta"
 		"pt_p"		"Encontre uma bateria de carro para alimentar a porta"
+		"ru"		"Найдите аккумулятор от машины для питания двери"
 	}
 	"b6856c3300376acfd1a02677b9d86a00"
 	{
 		"en"		"Go down the alley path"
 		"pt"		"Desça pelo caminho do beco"
 		"pt_p"		"Desça pelo caminho do beco"
+		"ru"		"Идите по дороге в переулок"
 	}
 	"460ca78f6aff287bef3b5d7725e139b0"
 	{
 		"en"		"Extinguish tire fort"
 		"pt"		"Apague o fogo dos pneus"
 		"pt_p"		"Apague o fogo dos pneus"
+		"ru"		"Потушите шинный форт"
 	}
 	"4be7ed9d6c8cde1884938b8bdd2be561"
 	{
 		"en"		"Find explosives to destroy tire fort"
 		"pt"		"Encontre explosivos para destruir o forte de pneus"
 		"pt_p"		"Encontre explosivos para destruir o forte de pneus"
+		"ru"		"Найдите взрывчатку, чтобы разрушить шинный форт"
 	}
 	"5ac4bf097cc511c82f2cab58a83f423a"
 	{
 		"en"		"Search for evac station"
 		"pt"		"Procure pela estação de evacuação"
 		"pt_p"		"Procure pela estação de evacuação"
+		"ru"		"Найдите пункт эвакуации"
 	}
 	"0962337b0c76fcaf622045d58cdb180f"
 	{
 		"en"		"Find a welder to open the alley door"
 		"pt"		"Encontre um soldador para abrir a porta do beco"
 		"pt_p"		"Encontre um soldador para abrir a porta do beco"
+		"ru"		"Найдите сварку, чтобы открыть дверь в переулок"
 	}
 	"24487531b10ee4484e4362e58e82aee4"
 	{
 		"en"		"Find an IED to blow up the alley door"
 		"pt"		"Encontre um IED para explodir a porta do beco"
 		"pt_p"		"Encontre um IED para explodir a porta do beco"
+		"ru"		"Найдите СВУ, чтобы взорвать дверь в переулок."
 	}
 	"72f4b316d41823eb9acd14d5e9ccc1ae"
 	{
 		"en"		"Bridge the canal and cross it"
 		"pt"		"Forme uma ponte sobre o canal e atravesse-o"
 		"pt_p"		"Forme uma ponte sobre o canal e atravesse-o"
+		"ru"		"Наведите мост через канал и пересеките его"
 	}
 	"fc37e63a59b3c9f6172eaf4a50054c50"
 	{
 		"en"		"The fire is not dying, find an extinguisher"
 		"pt"		"O fogo não está apagando, encontre um extintor"
 		"pt_p"		"O fogo não está apagando, encontre um extintor"
+		"ru"		"Огонь не утихает, найдите огнетушитель"
 	}
 	"f9357eb2e4853b0b54e984597a876555"
 	{
 		"en"		"Ignite the barricade using a welder"
 		"pt"		"Acenda a barricada usando um soldador"
 		"pt_p"		"Acenda a barricada usando um soldador"
+		"ru"		"Подожгите баррикаду с помощью сварочного аппарата"
 	}
 	"94683f52b44452b364cdd476f14763e5"
 	{
 		"en"		"Find gas to drench barricade in"
 		"pt"		"Encontre gasolina para encharcar a barricada"
 		"pt_p"		"Encontre gasolina para encharcar a barricada"
+		"ru"		"Найдите бензин для сожжения баррикады"
 	}
 	"b743b97113b76f698e3e12cde6e79c3c"
 	{
 		"en"		"Find a way to enter the Old Quarter"
 		"pt"		"Encontre uma maneira de entrar no Bairro Antigo"
 		"pt_p"		"Encontre uma maneira de entrar no Bairro Antigo"
+		"ru"		"Найдите способ попасть в Старый квартал"
 	}
 	"f5d59e31ab92fa980b091fd56f727e2f"
 	{
 		"en"		"Cross the bridge"
 		"pt"		"Atravesse a ponte"
 		"pt_p"		"Atravesse a ponte"
+		"ru"		"Пересеките мост"
 	}
 	"ead38b88752c77e0ac81da445cd89b63"
 	{
 		"en"		"Find your way to Lindun Road"
 		"pt"		"Abra o caminho para a estrada Lindun"
 		"pt_p"		"Abra o caminho para a estrada Lindun"
+		"ru"		"Найдите дорогу на Линдун Роуд"
 	}
 	"91357fd1b262a3895848f78c1db773aa"
 	{
 		"en"		"Main entrance blocked, find alternative exit"
 		"pt"		"Entrada principal bloqueada, encontre uma saída alternativa"
 		"pt_p"		"Entrada principal bloqueada, encontre uma saída alternativa"
+		"ru"		"Главный вход заблокирован, найдите другой выход"
 	}
 	"80a9fb5e145d7d16326e22ecb2c1a732"
 	{
 		"en"		"Find a way out of the station"
 		"pt"		"Encontre uma maneira de sair da estação"
 		"pt_p"		"Encontre uma maneira de sair da estação"
+		"ru"		"Найдите выход из станции"
 	}
 }

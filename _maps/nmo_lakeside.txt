@@ -7,6 +7,7 @@
 		"pt_p"		"Desolde a fechadura para a casa"
 		"zho"		"用噴槍解開門鎖"
 		"jp"		"ハウスへのロックを溶接する"
+		"ru"		"Приварите замок к дому"
 	}
 	"be3ffcd9772798288fb780f5f52c4be1"
 	{
@@ -15,6 +16,7 @@
 		"pt_p"		"Reinicie o gerador e o disjuntor"
 		"zho"		"啟動電力"
 		"jp"		"発電機とスイッチをリセットする"
+		"ru"		"Перезагрузите генератор и выключатели"
 	}
 	"b24d65302a735a48b0066f2a4d358fb4"
 	{
@@ -23,6 +25,7 @@
 		"pt_p"		"Encontre e use a manivela para abrir a porta de metal"
 		"zho"		"使用鐵撬開鐵門"
 		"jp"		"金属ドアを開けるため、クランクを探して使う"
+		"ru"		"Найдите и используйте рукоятку, чтобы открыть металлическую дверь"
 	}
 	"827ce8cc42785f9e326b7fc9b3661510"
 	{
@@ -31,6 +34,7 @@
 		"pt_p"		"Faça seu caminho atráves do túnel"
 		"zho"		"找到通過隧道的路"
 		"jp"		"トンネルを通り抜ける道を作る"
+		"ru"		"Пройдите по туннелю"
 	}
 	"6d2117182a94d03d7db5d4c56d3c9eda"
 	{
@@ -39,6 +43,7 @@
 		"pt_p"		"Sem sinal! Gire a antena parabólica!"
 		"zho"		"沒有訊號，調整雷達收訊"
 		"jp"		"信号が来ない！衛星アンテナが動くようにする！"
+		"ru"		"Нет сигнала! Поверните спутниковую антенну!"
 	}
 	"9831830323af67ff7743792c562f674d"
 	{
@@ -47,6 +52,7 @@
 		"pt_p"		"Procure o código para a sala de computadores"
 		"zho"		"尋找電腦房間的開門密碼"
 		"jp"		"コンピュータールームに行くためのコードを見つけ出す"
+		"ru"		"Ищите код для входа в компьютерный зал."
 	}
 	"c0f6f4fe59b065236f5f92c9410dc0b2"
 	{
@@ -55,6 +61,7 @@
 		"pt_p"		"Resete o interruptor de desarme da rede principal"
 		"zho"		"重啟總電源開關"
 		"jp"		"メイントリップ(メイン遮断)スイッチをリセットする"
+		"ru"		"Перезагрузите сетевой выключатель"
 	}
 	"696c69fc55babf3af03556e1206758c6"
 	{
@@ -63,6 +70,7 @@
 		"pt_p"		"Use o soldador no portão trancado"
 		"zho"		"使用噴槍打開電腦房間的門"
 		"jp"		"ロックされた出入り口に溶接機を使う"
+		"ru"		"Используйте сварочный аппарат на запертых воротах"
 	}
 	"31842a2c40f5839fdb64adde63e09552"
 	{
@@ -71,6 +79,7 @@
 		"pt_p"		"Encontre a chave para a porta dos fundo"
 		"zho"		"尋找後門的鑰匙"
 		"jp"		"裏口の鍵を探す"
+		"ru"		"Найдите ключ от задней двери"
 	}
 	"f90e96f005abb8829edc702fc0e60016"
 	{
@@ -79,6 +88,7 @@
 		"pt_p"		"Encontre a chave para a porta trancada"
 		"zho"		"尋找解鎖門的鑰匙"
 		"jp"		"ロックされたドアの鍵を探す"
+		"ru"		"Найдите ключ от запертой двери"
 	}
 	"286383e1c5b3a81a2510ca195e2cc026"
 	{
@@ -87,6 +97,7 @@
 		"pt_p"		"Use soldador na porta da sala de computadores"
 		"zho"		"使用噴槍打開電腦房間的門"
 		"jp"		"コンピュータールームのドアに溶接機を使う"
+		"ru"		"Используйте сварочный аппарат на двери в компьютерный зал"
 	}
 	"cc3051f64aaaef784bc1c1982bd68c9b"
 	{
@@ -95,6 +106,7 @@
 		"pt_p"		"Entre na cabana através da porta lateral"
 		"zho"		"進入客房旁邊的門"
 		"jp"		"横のドアから小屋に入る"
+		"ru"		"Войдите в хижину через боковую дверь"
 	}
 	"274f5aed67a623b00bfb144fc39fcb26"
 	{
@@ -103,6 +115,7 @@
 		"pt_p"		"Pegue o tanque de propano para explodir as portas do porão"
 		"zho"		"用瓦斯罐炸開地窖大門"
 		"jp"		"セラー(地下室)のドアを吹き飛ばして開けるため、プロパンタンクを取る"
+		"ru"		"Возьмите баллон с пропаном, чтобы взорвать двери подвала"
 	}
 	"0652262599ea9304059b1969ebf48752"
 	{
@@ -111,6 +124,7 @@
 		"pt_p"		"Use o notebook!"
 		"zho"		"使用筆電呼叫救援"
 		"jp"		"ノートパソコンを使う"
+		"ru"		"Воспользуйтесь ноутбуком!"
 	}
 	"e286b6c67e763eed90cafb37161e85d6"
 	{
@@ -119,6 +133,7 @@
 		"pt_p"		"Use o gerador para habilitar a energia de emergência"
 		"zho"		"使用發電機啟動緊急供電"
 		"jp"		"非常電源を入れるため発電機を使う"
+		"ru"		"Используйте генератор для обеспечения аварийного питания"
 	}
 	"9f9642912ff2a1d64c2e3c5b2cb36e71"
 	{
@@ -127,6 +142,7 @@
 		"pt_p"		"Restaure todos os 3 geradores subterrâneos"
 		"zho"		"重啟三座地下發電機"
 		"jp"		"３つ全ての地下発電機を直す"
+		"ru"		"Восстановите работу всех 3 подземных генераторов"
 	}
 	"401c8cf5e46e0877a46df8f99b195a1f"
 	{
@@ -135,6 +151,7 @@
 		"pt_p"		"Use o rádio!"
 		"zho"		"使用無線電"
 		"jp"		"無線機を使う"
+		"ru"		"Воспользуйтесь радио!"
 	}
 	"d0169bda998d354542b21c98d2a89fb5"
 	{
@@ -143,6 +160,7 @@
 		"pt_p"		"Encontre a chave para a adega"
 		"zho"		"尋找地下室的鑰匙"
 		"jp"		"地下室への鍵を見つける"
+		"ru"		"Найдите ключ от погреба"
 	}
 	"19a63aa5df07e3aae6e0106abcdaee07"
 	{
@@ -151,6 +169,7 @@
 		"pt_p"		"Encontre uma rota alternativa de volta para a cabana"
 		"zho"		"尋找進入客房的路"
 		"jp"		"小屋に戻る別の道を探す"
+		"ru"		"Найдите другой маршрут возвращения в хижину"
 	}
 	"4bb493ddc85bcb27c30b0e8d7ada6ca2"
 	{
@@ -159,6 +178,7 @@
 		"pt_p"		"As telecomunicações estão fora do ar, Restaure!"
 		"zho"		"沒有訊號，調整雷達收訊"
 		"jp"		"衛星通信がダウンしている。直す！"
+		"ru"		"Телекоммуникация отключена, восстановите её!"
 	}
 	"4fbd9c63d5ed0358f0e459820dbed131"
 	{
@@ -167,6 +187,7 @@
 		"pt_p"		"Use o rádio para entrar em contato com o resgate"
 		"zho"		"使用無線電聯絡請求救援"
 		"jp"		"救助隊と連絡をとるため無線機を使う"
+		"ru"		"Используйте радио для связи со спасателями"
 	}
 	"ecc5632e0dd88123275deddbfa187fe7"
 	{
@@ -175,6 +196,7 @@
 		"pt_p"		"Encontre a chave da garagem"
 		"zho"		"尋找車庫鑰匙"
 		"jp"		"ガレージの鍵を探す"
+		"ru"		"Найдите ключ от гаража"
 	}
 	"4068a2465ce57a9476d9afc3ec3d8c93"
 	{
@@ -183,5 +205,6 @@
 		"pt_p"		"Saia do galpão"
 		"zho"		"離開磨坊"
 		"jp"		"水車小屋を出る"
+		"ru"		"Покиньте мельницу"
 	}
 }

@@ -7,6 +7,7 @@
 		"pt_p"		"Prossiga pelo subterrâneo."
 		"zho"		"繼續前往地下道(下水道)"
 		"jp"		"地下を進む"
+		"ru"		"Пройдите через подземный переход."
 	}
 	"856fe2129ca1ee31a9afaa381cc1e039"
 	{
@@ -15,6 +16,7 @@
 		"pt_p"		"Encontre a bateria de carro, ligue o gerador e peça ajuda!"
 		"zho"		"尋找汽車電瓶，啟動發電機呼叫救援"
 		"jp"		"車のバッテリーを探し、発電機の電源を入れ、助けを呼ぶ！"
+		"ru"		"Найдите автомобильный аккумулятор, включите генератор и вызовите помощь!"
 	}
 	"2becc85a0570d883add223e42bafc0e9"
 	{
@@ -23,6 +25,7 @@
 		"pt_p"		"Reconecte a linha telegráfica."
 		"zho"		"重新連接電報線"
 		"jp"		"電線を再接続する"
+		"ru"		"Подключите телеграфную линию."
 	}
 	"1a6fed3153fedc9d2cde889237ede069"
 	{
@@ -31,6 +34,7 @@
 		"pt_p"		"Desolde a porta da cozinha."
 		"zho"		"用噴槍打開廚房門"
 		"jp"		"溶接機でキッチンのドアを通る"
+		"ru"		"Проварите путь через кухонную дверь."
 	}
 	"77ccdbe326e764b8f0b1891abe60b9e9"
 	{
@@ -39,6 +43,7 @@
 		"pt_p"		"Insira o livro na estante."
 		"zho"		"把秘密書籍放到書架上"
 		"jp"		"本棚に本を入れる"
+		"ru"		"Поставьте книгу на полку."
 	}
 	"1823b80b619be0043750ae3477a1e25c"
 	{
@@ -47,6 +52,7 @@
 		"pt_p"		"Exploda a parede da cabana."
 		"zho"		"炸開牆客房的牆壁"
 		"jp"		"小屋の壁を開通させる"
+		"ru"		"Взорвите стену хижины."
 	}
 	"72fc700fbcc1e25db19ed308a405d6c6"
 	{
@@ -55,6 +61,7 @@
 		"pt_p"		"Libere o portão da escada."
 		"zho"		"開啟樓梯的門"
 		"jp"		"階段の出入り口を解除する"
+		"ru"		"Откройте лестничную задвижку."
 	}
 	"5c5e7cb34f703447af925ae211c1e0fa"
 	{
@@ -63,6 +70,7 @@
 		"pt_p"		"Family é a resposta, encontre o livro secreto."
 		"zho"		"家人就是線索，尋找秘密書籍"
 		"jp"		"家族が答え。秘密の本を探す"
+		"ru"		"Семья - это ответ, найдите секретную книгу."
 	}
 	"7df9626347dd3af11703457e6fa29031"
 	{
@@ -71,6 +79,7 @@
 		"pt_p"		"Quebre as tábuas para prosseguir."
 		"zho"		"清除木板繼續任務"
 		"jp"		"進むために板を壊す"
+		"ru"		"Разбейте доски, чтобы продолжить путь."
 	}
 	"dc1d2ed897954681df169fc2c4459f4e"
 	{
@@ -79,6 +88,7 @@
 		"pt_p"		"Encontre as chaves para destrancar a porta."
 		"zho"		"尋找鑰匙開門"
 		"jp"		"ドアのロックを解除するキーを見つける"
+		"ru"		"Найдите ключи, чтобы отпереть дверь."
 	}
 	"cc1ef8ac76c5b618dacf2b1d99518b2b"
 	{
@@ -87,5 +97,6 @@
 		"pt_p"		"Saia do sótão."
 		"zho"		"打開頂樓的門"
 		"jp"		"屋根裏部屋から抜け出す"
+		"ru"		"Выбирайтесь с чердака."
 	}
 }

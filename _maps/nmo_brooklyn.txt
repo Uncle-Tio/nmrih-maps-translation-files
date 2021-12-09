@@ -7,6 +7,7 @@
 		"pt_p"		"Empurre o carro para fora do caminho, limpe o caminho"
 		"zho"		"把擋在路上的汽車推開"
 		"jp"		"車を邪魔にならないところへ押し、道を開ける"
+		"ru"		"Уберите машину с дороги, освободите путь"
 	}
 	"5ebfb7e45b4bcbf82765f6dd4debf4e0"
 	{
@@ -15,6 +16,7 @@
 		"pt_p"		"Encontre o posto avançado e anule o bloqueio"
 		"zho"		"找到前哨站並重設大門鎖"
 		"jp"		"前哨基地を見つけ、ロックダウンを上書きする"
+		"ru"		"Найдите аванпост и отмените карантин"
 	}
 	"cb432f346eb8db35c7b6d7b5e89b9c40"
 	{
@@ -22,7 +24,8 @@
 		"pt"		"Carregue a van"
 		"pt_p"		"Carregue a van"
 		"zho"		"將物資裝上麵包車"
-		"jp"		"バンに積み込む"	
+		"jp"		"バンに積み込む"
+		"ru"		"Загрузите фургон"
 	}
 	"88c3c880e5789ee4c645a26c649c0e06"
 	{
@@ -31,6 +34,7 @@
 		"pt_p"		"Reconecte o cabo de alimentação para o portão da quarentena"
 		"zho"		"為隔離大門重新連接電源線"
 		"jp"		"遮断ゲートのために電源を再接続する"
+		"ru"		"Снова подключите кабель питания для карантинных ворот"
 	}
 	"cd6e2eded74087a7752543b1c40c21c6"
 	{
@@ -39,6 +43,7 @@
 		"pt_p"		"Encontre o extintor e apague o incêndio da rua"
 		"zho"		"尋找滅火器並撲滅路上的火焰"
 		"jp"		"消火器を探し、通りの火を消す"
+		"ru"		"Найдите огнетушитель и потушите пожар"
 	}
 	"de5253dd411e0f95c56eec942538a0c0"
 	{
@@ -47,6 +52,7 @@
 		"pt"		"Empurre o carrinho"
 		"zho"		"推著拖板車"
 		"jp"		"カートを押す"
+		"ru"		"Толкайте тележку"
 	}
 	"efdfc4095b503c0c24d995ed6ee8f369"
 	{
@@ -55,6 +61,7 @@
 		"pt_p"		"Prenda o gancho para que Mickey possa puxar a cerca"
 		"zho"		"將勾子放上柵欄讓車子可以拉開"
 		"jp"		"ミッキーがフェンスを引き倒せるようにフックを取り付ける"
+		"ru"		"Прикрепите крюк, чтобы Микки мог опустить забор."
 	}
 	"4777144085da8f80cfc21ebd1811eb16"
 	{
@@ -63,6 +70,7 @@
 		"pt_p"		"Use a chave para destrancar a porta da cela"
 		"zho"		"使用鑰匙打開牢房的門"
 		"jp"		"鍵を使って牢屋を開ける"
+		"ru"		"Используйте ключ, чтобы отпереть дверь камеры"
 	}
 	"901c3b7a406756f7f27573016f0ee8a4"
 	{
@@ -71,6 +79,7 @@
 		"pt_p"		"Desengate o bloqueio da porta fortificada"
 		"zho"		"解開鎖定突破口"
 		"jp"		"非常口のロックを解除する"
+		"ru"		"Отключите блокировку сального порта"
 	}
 	"ad2c79e99a38c7b431946707a3098654"
 	{
@@ -79,6 +88,7 @@
 		"pt_p"		"Localize o código para o portão da área"
 		"zho"		"發現守衛區域的大門的密碼"
 		"jp"		"エリアゲートを保持するキーコードを探します"
+		"ru"		"Найдите пароль для ворот зоны ожидания"
 	}
 	"fc4bca1bf875f0f95b4decc374393912"
 	{
@@ -87,6 +97,7 @@
 		"pt_p"		"Encontre o fusível e restaure a energia para o elevador"
 		"zho"		"用保險絲重新啟動電梯的電源"
 		"jp"		"ヒューズを見つけ、エレベーターの電源を回復する"
+		"ru"		"Найдите предохранитель и восстановите питание лифта"
 	}
 	"7bf466c2bf79c04fcbe4cdfcbe42a0e9"
 	{
@@ -95,6 +106,7 @@
 		"pt_p"		"Use o I.E.D para estourar a janela da delegacia"
 		"zho"		"用土砲炸彈清除窗戶障礙物"
 		"jp"		"I.E.Dを使って境界にある窓を吹き飛ばす"
+		"ru"		"Используйте С.В.У., чтобы взорвать окно участка"
 	}
 	"ca49a4ca0a3b255d7b03901bc60d40c4"
 	{
@@ -103,6 +115,7 @@
 		"pt_p"		"Encontre o soldador para acessar a porta da garagem"
 		"zho"		"找到焊槍啟用車庫鐵捲門"
 		"jp"		"ガレージドアリリースにアクセスするため、溶接機を見つける"
+		"ru"		"Найдите сварочный аппарат для срезания гаражных ворот"
 	}
 	"66629a93830276a162c61bd75956bc63"
 	{
@@ -111,6 +124,7 @@
 		"pt_p"		"Quebre a fechadura "
 		"zho"		"破壞掉門鎖"
 		"jp"		"ロックを破壊する"
+		"ru"		"Выломать замок"
 	}
 	"b33247f2bfc8b359d81910e40fdcd40c"
 	{
@@ -119,6 +133,7 @@
 		"pt_p"		"Saia do bloco de apartamentos"
 		"zho"		"破除公寓的封鎖"
 		"jp"		"アパートのブロックを破る"
+		"ru"		"Вырваться из многоквартирного дома"
 	}
 	"0009467bef4c1cfcf26fd647fb989b31"
 	{
@@ -127,6 +142,7 @@
 		"pt_p"		"Leve a comida"
 		"zho"		"帶走食物"
 		"jp"		"食料を奪う"
+		"ru"		"Найдите еду"
 	}
 	"abfa5e7b32071fa9c8d8813ca64dc3ea"
 	{
@@ -135,6 +151,7 @@
 		"pt_p"		"Leve a água"
 		"zho"		"帶走水桶"
 		"jp"		"水を奪う"
+		"ru"		"Найдите воду"
 	}
 	"5c829c0f282ce353d678a430eb516a08"
 	{
@@ -143,6 +160,7 @@
 		"pt_p"		"Leve o combustível"
 		"zho"		"帶走汽油"
 		"jp"		"燃料を奪う"
+		"ru"		"Найдите топливо"
 	}
 	"896b26c328d33e70196e7267baa26d79"
 	{
@@ -151,6 +169,7 @@
 		"pt_p"		"Empurre o carrinho para encontrar o Mickey"
 		"zho"		"繼續推著拖板車去找米奇"
 		"jp"		"ミッキーに会うためカートを押す"
+		"ru"		"Толкайте тележку, чтобы встретиться с Микки"
 	}
 	"0e90fe19de903aecc60553c94a819d3f"
 	{
@@ -159,5 +178,6 @@
 		"pt_p"		"Encontre o cadeado e ajude o Mickey a trancar a porta"
 		"zho"		"找到掛鎖，並幫助米奇鎖門"
 		"jp"		"南京錠を見つけ、ミッキーを助けドアをロックする"
+		"ru"		"Найдите висячий замок и помогите Микки запереть дверь"
 	}
 }
