@@ -1,6 +1,6 @@
 # [NMRiH] Translation Files (for [dysphie/sm-map-translator](https://github.com/dysphie/sm-map-translator))
 
-NMO and NMS maps translation files for multiple languages using **dysphie/sm-map-translator**. Including **Vanilla** and most popular **Custom Maps** With help from the community.
+NMO and NMS maps translation files for multiple languages using **dysphie/sm-map-translator**. Including **Vanilla** and most popular **Custom Maps** with help from the community.
 
 You can submit new translations or suggest corrections. [See how](#how-to-contribute).
 
@@ -18,8 +18,6 @@ You can submit new translations or suggest corrections. [See how](#how-to-contri
 
 
 ## How to contribute:
-
-For a more **noob friendly** tutorial, click [here](#how-to-contribute) *(Working on it/WIP)*.
 
 When making contributions, copy the English language line and paste below and change the ID code from `"en"` to one from [this list](#tabela-de-ids-e-status) to add new translations. 
 
