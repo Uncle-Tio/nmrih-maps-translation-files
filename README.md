@@ -1,27 +1,28 @@
-# [NMRiH] Translation Files (for [dysphie/sm-map-translator](https://github.com/dysphie/sm-map-translator))
+# [NMRiH] Translation Files for [dysphie/sm-map-translator](https://github.com/dysphie/sm-map-translator)
 
-NMO and NMS maps translation files for multiple languages using **dysphie/sm-map-translator**. Including **Vanilla** and most popular **Custom Maps** with help from the community.
+NMO and NMS maps translation files for multiple languages using **dysphie/sm-map-translator**.
+
+Including **Vanilla** and most popular **Custom Maps** with help from the community.
 
 You can submit new translations or suggest corrections. [See how](#how-to-contribute).
+
+#### Installation:
+1. Download the [respository](https://github.com/Uncle-Tio/nmrih-maps-translation-files/archive/refs/heads/main.zip).
+2. Unzip folder `_maps` and put in your Sourcemod Translations folder `Server\nmrih\addons\sourcemod\translations`.
+
+>⚠️ *If you have already translated any of the maps included in this repository, they will be overwritten.*
 
 #### Requeriments:
 - [[NMRiH/ZPS] Map Translator](https://github.com/dysphie/sm-map-translator) made by [dysphie](https://github.com/dysphie).
 - The player must have a language selected in the game properties (on Steam).
 
-🔎 *If the chosen language is not translated, English will be used (as default).*
-
-#### Installation:
-1. Download `nmrih-map-translations.zip` most recent from [releases](https://github.com/Uncle-Tio/nmrih-maps-translation-files/releases) (WIP).
-2. Unzip folder `_maps` and put in your Sourcemod Translations folder `nmrih\addons\sourcemod\translations`.
-
-⚠️ *If you have already translated any of the maps included in this repository, they will be **lost** when overwriting.*
-
+>🔎 *If the chosen language is not translated, English will be used (as default).*
 
 ## How to contribute:
 
-When making contributions, copy the English language line and paste below and change the ID code from `"en"` to one from [this list](#tabela-de-ids-e-status) to add new translations. 
+When making contributions, copy the English language line and paste below and change the ID code from `"en"` to one from [this list](#language-code-table-and-status) to add new translations. 
 
-💡 *Use the English line as a reference*
+> 💡 *Use the English line as a reference*
 
 #### Example:
 ```cpp
